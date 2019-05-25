@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.ro/citations?user=8Vsl1vkAAAAJ"
   email            : "grigore.stamatescu@upb.ro"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://shiva.pub.ro/en/"
+  uri              : #"https://shiva.pub.ro/en/"
   bitbucket        :
   codepen          :
   dribbble         :
