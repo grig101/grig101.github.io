@@ -12,7 +12,7 @@ Welcome to my research homepage!
 
 Interests
 ------
-Sensors; Larges scale and distributed sensor systems; Sensor Information Processing; Statistical learning and computational intelligence techniques for sensor data; New paradigms: (Industrial-) Internet of Things, Cyber-physical Systems; Sensors in Automation and Control; Application: industry, energy systems, smart buildings and smart cities.
+Sensors; Large scale and distributed sensor systems; Sensor information processing; Statistical learning and computational intelligence techniques for sensor data; New paradigms: (Industrial-) Internet of Things, Cyber-physical Systems; Sensors in Automation and Control; Applications: industry, energy systems, smart buildings and smart cities.
 
 News
 ------
@@ -22,6 +22,8 @@ News
 
 Service
 ------
-* 2019 TPCs: IDAACS, INTAP
-* Editor: Journal of Sensors, International Journal of Computing, Smart Cities
+* 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
+* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities)
+* Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
+* Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair
 
