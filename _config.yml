@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Grigore Stamatescu"
   avatar           : "picture.jpg"
-  bio              : "Research Scientist at [CSH](https://www.csh.ac.at)/[TU Graz](https://www.tugraz.at/en/institutes/iti/home/); Associate Professor at [UPB](https://shiva.pub.ro/en/)"
+  bio              : "Research Scientist at CSH/TU Graz; Associate Professor at UPB"
   location         : "Vienna, Austria"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ro/citations?user=8Vsl1vkAAAAJ"
   email            : "grigore.stamatescu@upb.ro"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://shiva.pub.ro/en/"
   bitbucket        :
   codepen          :
   dribbble         :
