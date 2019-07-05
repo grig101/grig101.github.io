@@ -7,7 +7,9 @@ author_profile: true
 
 2019
 ------
-Stamatescu G., Dragana C., Stamatescu I., Ichim L., Popescu D., IoT-Enabled Distributed Data Processing for Precision Agriculture, 27th Mediterranean Conference on Control and Automation, MED 2019, 19-22 June, Akko, Israel. accepted [PDF](/files/med19.pdf)
+Chitu C., Stamatescu G., Stamatescu I., Sgarciu V., Assessment of Occupancy Estimators for Smart Buildings, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. accepted [PDF](/files/idaacs19_occupancy.pdf)
+
+Stamatescu G., Dragana C., Stamatescu I., Ichim L., Popescu D., IoT-Enabled Distributed Data Processing for Precision Agriculture, 27th Mediterranean Conference on Control and Automation, MED 2019, July 1-4, Akko, Israel. [PDF](/files/med19.pdf)
 
 Nichiforov C., Stamatescu G., Stamatescu I., Făgărăşan I., Evaluation of Sequence-Learning Models for Large-Commercial-Building Load Forecasting. Information 2019, 10, 189. [LINK](https://www.mdpi.com/2078-2489/10/6/189)
 
