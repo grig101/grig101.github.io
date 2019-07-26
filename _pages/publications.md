@@ -7,6 +7,10 @@ author_profile: true
 
 2019
 ------
+Chitu C., Stamatescu G., Cerpa A., Building Occupancy Estimation using Supervised Learning Techniques, 23rd International Conference on System Theory, Control and Computing, ICSTCC 2019, October 9-11, 2019, Sinaia, Romania. accepted [PDF](/files/icstcc19_occupancy.pdf)
+
+Nichiforov C., Stamatescu G., Stamatescu I., Fagarasan I., Iliescu S.St., Building Electrical Load Forecasting through Neural Network Models with Exogenous Inputs, 23rd International Conference on System Theory, Control and Computing, ICSTCC 2019, October 9-11, 2019, Sinaia, Romania. accepted [PDF](/files/icstcc19_lf.pdf)
+
 Chitu C., Stamatescu G., Stamatescu I., Sgarciu V., Assessment of Occupancy Estimators for Smart Buildings, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. accepted [PDF](/files/idaacs19_occupancy.pdf)
 
 Nichiforov C., Stamatescu G., Stamatescu I., Arghira N., Fagarasan I., Iliescu S.St., Embedded On-line System for Electrical Energy Measurement and Forecasting in Buildings, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. accepted [PDF](/files/idaacs19_lf.pdf)
