@@ -7,7 +7,7 @@ author_profile: true
 
 2019
 ------
-Stamatescu G., Entezari R., Römer K., Saukh O., Deep and Efficient Impact Models for Edge Characterization and Control of Energy Events, 25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, December 4-6, 2019, Tianjin, China. accepted[PDF](/files/icpads19.pdf)
+Stamatescu G., Entezari R., Römer K., Saukh O., Deep and Efficient Impact Models for Edge Characterization and Control of Energy Events, 25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, December 4-6, 2019, Tianjin, China. accepted [PDF](/files/icpads19.pdf)
 
 Chitu C., Stamatescu G., Cerpa A., Building Occupancy Estimation using Supervised Learning Techniques, 23rd International Conference on System Theory, Control and Computing, ICSTCC 2019, October 9-11, 2019, Sinaia, Romania. [PDF](/files/icstcc19_occupancy.pdf)
 
