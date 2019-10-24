@@ -9,6 +9,8 @@ author_profile: true
 ------
 Stamatescu G., Entezari R., Römer K., Saukh O., Deep and Efficient Impact Models for Edge Characterization and Control of Energy Events, 25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, December 4-6, 2019, Tianjin, China. accepted [PDF](/files/icpads19.pdf)
 
+Popescu D., Stoican F., Stamatescu G., Chenaru O., Ichim L., A Survey of Collaborative UAV-WSN Systems for Efficient Monitoring, Sensors, 2019. [PDF](/files/sensors19.pdf)
+
 Chitu C., Stamatescu G., Cerpa A., Building Occupancy Estimation using Supervised Learning Techniques, 23rd International Conference on System Theory, Control and Computing, ICSTCC 2019, October 9-11, 2019, Sinaia, Romania. [PDF](/files/icstcc19_occupancy.pdf)
 
 Nichiforov C., Stamatescu G., Stamatescu I., Fagarasan I., Iliescu S.St., Building Electrical Load Forecasting through Neural Network Models with Exogenous Inputs, 23rd International Conference on System Theory, Control and Computing, ICSTCC 2019, October 9-11, 2019, Sinaia, Romania. [PDF](/files/icstcc19_lf.pdf)
