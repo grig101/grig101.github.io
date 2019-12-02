@@ -7,7 +7,7 @@ author_profile: true
 
 2019
 ------
-Stamatescu G., Entezari R., Römer K., Saukh O., Deep and Efficient Impact Models for Edge Characterization and Control of Energy Events, 25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, December 4-6, 2019, Tianjin, China. accepted [PDF](/files/icpads19.pdf)
+Stamatescu G., Entezari R., Römer K., Saukh O., Deep and Efficient Impact Models for Edge Characterization and Control of Energy Events, 25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, December 4-6, 2019, Tianjin, China. [PDF](/files/icpads19.pdf)
 
 Popescu D., Stoican F., Stamatescu G., Chenaru O., Ichim L., A Survey of Collaborative UAV-WSN Systems for Efficient Monitoring, Sensors, 2019. [PDF](/files/sensors19.pdf)
 
@@ -18,6 +18,10 @@ Nichiforov C., Stamatescu G., Stamatescu I., Fagarasan I., Iliescu S.St., Buildi
 Chitu C., Stamatescu G., Stamatescu I., Sgarciu V., Assessment of Occupancy Estimators for Smart Buildings, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. [PDF](/files/idaacs19_occupancy.pdf)
 
 Nichiforov C., Stamatescu G., Stamatescu I., Arghira N., Fagarasan I., Iliescu S.St., Embedded On-line System for Electrical Energy Measurement and Forecasting in Buildings, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. [PDF](/files/idaacs19_lf.pdf)
+
+Popescu D., Stoican F., Ichim L., Stamatescu G., Dragana C., Collaborative UAV-WSN System for Data Acquisition and Processing in Agriculture, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. [PDF](/files/idaacs19_uavwsn.pdf)
+
+Calofir V., Nica G., Stamatescu G., Arghira N., Dynamic Nonlinear Modelling of Building Structure Using the Force Analogy Method, 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2019, September 18-21, Metz, France. [PDF](/files/idaacs19_seismic.pdf)
 
 Stamatescu G., Dragana C., Stamatescu I., Ichim L., Popescu D., IoT-Enabled Distributed Data Processing for Precision Agriculture, 27th Mediterranean Conference on Control and Automation, MED 2019, July 1-4, Akko, Israel. [PDF](/files/med19.pdf)
 
