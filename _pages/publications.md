@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+2020
+------
+Popescu D., Stoican F., Stamatescu G., Ichim L., Dragana C., Advanced UAV–WSN System for Intelligent Monitoring in Precision Agriculture, Submitted to Sensors, 2020. [PDF](/files/sensors20.pdf)
+
 2019
 ------
 Stamatescu G., Entezari R., Römer K., Saukh O., Deep and Efficient Impact Models for Edge Characterization and Control of Energy Events, 25th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2019, December 4-6, 2019, Tianjin, China. [PDF](/files/icpads19.pdf)
