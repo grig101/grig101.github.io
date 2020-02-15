@@ -16,7 +16,7 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
-* Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. Thesis proposals to be published soon!
+* Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. 
 * [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors
 * [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
 * [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019
@@ -28,4 +28,26 @@ Service
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI)
 * Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
 * Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair
+
+PhD Research Topics
+------
+* Open information systems for energy management in large commercial buildings
+
+Large commercial buildings offer significant economic and environmental incentives for improved energy management under growing urbanization tendencies in smart cities. Current monitoring and automation systems are mostly closed hardware-software solutions with high associated costs. The objective is to develop a new methodology for integration of open source components in the automation of modern buildings. This will bridge wired and wireless communication protocols such as Modbus, BACNet, ZigBee, hardware interfaces and software libraries, structured data representations and learning algorithms for modelling and control.
+
+*Efficient methods for multivariate time series processing for forecasting and anomaly detection 
+
+Many industrial processes are monitored through tens to thousands of continuous and discrete sensors producing rich data traces at various timescales. The objective is to first perform a critical evaluation among conventional time series modelling algorithms e.g. multivariate SARIMA, against new machine learning and deep learning models e.g. recurrent and convolutional neural networks, for forecasting and anomaly detection tasks in typical industrial scenarios. Second, the viability of online inference for these types of models will be investigated through targeted case studies e.g. multilevel direct and indirect energy measurement in smart buildings and production facilities.
+
+* Large scale monitoring by means of distributed sensor networks
+
+Distributed sensor networks involve large numbers of sensing, computing and communication nodes that collaborate for joint observation of interest areas. Embedded consensus algorithms allow improved operation through data reduction and better quality of information. The objective is to develop new methods for distributed sensing in large scale applications that increase network lifetime, resilience and robustness for critical tasks. Implementation and benchmarking will be handled both in simulation and on a dedicated test bed infrastructure in connection to predefined KPIs.
+
+* Information extraction and in situ control for distributed systems of sensors and actuators
+
+As the on-board resources of embedded sensing and actuation nodes increase, local extraction of relevant information becomes possible as well as embedded predictive control schemes that use this information. This leads to a flatter automation hierarchy composed of cooperating intelligent periphery and an on-demand cloud layer providing advanced control/optimization as a service. The objective is to develop and validate such approaches in both simulation (MATLAB/Simulink) and small scale pilot deployments (two/three tank system, flexible assembly line).
+
+* Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS
+
+Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
 
