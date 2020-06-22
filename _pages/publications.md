@@ -7,7 +7,14 @@ author_profile: true
 
 2020
 ------
-Popescu D., Stoican F., Stamatescu G., Ichim L., Dragana C., Advanced UAV–WSN System for Intelligent Monitoring in Precision Agriculture, Submitted to Sensors, 2020. [PDF](/files/sensors20.pdf)
+
+Nichiforov C., Stamatescu G., Stamatescu I., Fagarasan I., Learning Dominant Usage from Anomaly Patterns in Building Energy Traces, 16th International Conference on Automation Science and Engineering, CASE 2020, August 20-21, 2020, Hong Kong. [PDF](/files/case20.pdf) accepted
+
+Stamatescu G., Stamatescu I., Arghira N., Fagarasan I., Cybersecurity Perspectives for Smart Building Automation Systems, 8th International Workshop on Systems Safety & Security, IWSSS 2020, June 25-26, 2020, Bucharest, Romania. [PDF](/files/iwsss20.pdf) accepted
+
+Stamatescu G., Chitu C., Privacy-Preserving Sensing and Two-Stage Building Occupancy Prediction using Random Forest Learning, TechRxiv preprint, 2020. [LINK](https://www.techrxiv.org/articles/Privacy-Preserving_Sensing_and_Two-Stage_Building_Occupancy_Prediction_using_Random_Forest_Learning/12123282)
+
+Popescu, D.; Stoican, F.; Stamatescu, G.; Ichim, L.; Dragana, C. Advanced UAV–WSN System for Intelligent Monitoring in Precision Agriculture. Sensors 2020, 20, 817. [PDF](/files/sensors20.pdf)
 
 2019
 ------
