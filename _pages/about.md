@@ -16,6 +16,8 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [06/20] Appointed Co-Editor-in-Chief of the [International Journal of Computing](https://www.computingonline.net/computing)
+* [05/20] Our paper on "Learning Dominant Usage from Anomaly Patterns in Building Energy Traces" has been accepted for publication at the 2020 IEEE 16th International Conference on Automation Science and Engineering [CASE 2020](https://www.imse.hku.hk/case2020/).
 * Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. 
 * [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors
 * [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
@@ -35,7 +37,7 @@ PhD Research Topics
 
 Large commercial buildings offer significant economic and environmental incentives for improved energy management under growing urbanization tendencies in smart cities. Current monitoring and automation systems are mostly closed hardware-software solutions with high associated costs. The objective is to develop a new methodology for integration of open source components in the automation of modern buildings. This will bridge wired and wireless communication protocols such as Modbus, BACNet, ZigBee, hardware interfaces and software libraries, structured data representations and learning algorithms for modelling and control.
 
-*Efficient methods for multivariate time series processing for forecasting and anomaly detection 
+* Efficient methods for multivariate time series processing for forecasting and anomaly detection 
 
 Many industrial processes are monitored through tens to thousands of continuous and discrete sensors producing rich data traces at various timescales. The objective is to first perform a critical evaluation among conventional time series modelling algorithms e.g. multivariate SARIMA, against new machine learning and deep learning models e.g. recurrent and convolutional neural networks, for forecasting and anomaly detection tasks in typical industrial scenarios. Second, the viability of online inference for these types of models will be investigated through targeted case studies e.g. multilevel direct and indirect energy measurement in smart buildings and production facilities.
 
