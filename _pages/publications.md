@@ -8,6 +8,8 @@ author_profile: true
 2020
 ------
 
+Stamatescu I., Mihalache R., Arghira N., Fagarasan I., Stamatescu G., Model for Optimized EVSE Deployment in Dense Urban Areas, 46th Annual Conference of the IEEE Industrial Electronics Society (IES), IECON 2020, October 18-21, 2020, Singapore. [PDF](/files/iecon20.pdf) accepted
+
 Nichiforov C., Stamatescu G., Stamatescu I., Fagarasan I., Learning Dominant Usage from Anomaly Patterns in Building Energy Traces, 16th International Conference on Automation Science and Engineering, CASE 2020, August 20-21, 2020, Hong Kong. [PDF](/files/case20.pdf) accepted
 
 Stamatescu G., Stamatescu I., Arghira N., Fagarasan I., Cybersecurity Perspectives for Smart Building Automation Systems, 8th International Workshop on Systems Safety & Security, IWSSS 2020, June 25-26, 2020, Bucharest, Romania. [PDF](/files/iwsss20.pdf) accepted

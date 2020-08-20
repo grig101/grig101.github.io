@@ -17,6 +17,7 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 News
 ------
 * [08/20] Launched the [2020 IEEE Robotics and Automation Romania Chapter Best PhD Thesis Award Competition](https://r8.ieee.org/romania-ras/phdaward/)
+* [07/20] Our paper on "Model for Optimized EVSE Deployment in Dense Urban Areas" has been accepted for publication at the 46th Annual Conference of the IEEE Industrial Electronics Society (IES) [IECON 2020](https://www.iecon2020.org)
 * [06/20] Appointed Co-Editor-in-Chief of the [International Journal of Computing](https://www.computingonline.net/computing)
 * [05/20] Our paper on "Learning Dominant Usage from Anomaly Patterns in Building Energy Traces" has been accepted for publication at the 2020 IEEE 16th International Conference on Automation Science and Engineering [CASE 2020](https://www.imse.hku.hk/case2020/)
 * [12/19] Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. 
