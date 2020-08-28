@@ -43,7 +43,7 @@ Large commercial buildings offer significant economic and environmental incentiv
 
 Many industrial processes are monitored through tens to thousands of continuous and discrete sensors producing rich data traces at various timescales. The objective is to first perform a critical evaluation among conventional time series modelling algorithms e.g. multivariate SARIMA, against new machine learning and deep learning models e.g. recurrent and convolutional neural networks, for forecasting and anomaly detection tasks in typical industrial scenarios. Second, the viability of online inference for these types of models will be investigated through targeted case studies e.g. multilevel direct and indirect energy measurement in smart buildings and production facilities.
 
-* Large scale monitoring by means of distributed sensor networks
+* Large scale monitoring by means of distributed sensor networks *allocated*
 
 Distributed sensor networks involve large numbers of sensing, computing and communication nodes that collaborate for joint observation of interest areas. Embedded consensus algorithms allow improved operation through data reduction and better quality of information. The objective is to develop new methods for distributed sensing in large scale applications that increase network lifetime, resilience and robustness for critical tasks. Implementation and benchmarking will be handled both in simulation and on a dedicated test bed infrastructure in connection to predefined KPIs.
 
@@ -51,7 +51,7 @@ Distributed sensor networks involve large numbers of sensing, computing and comm
 
 As the on-board resources of embedded sensing and actuation nodes increase, local extraction of relevant information becomes possible as well as embedded predictive control schemes that use this information. This leads to a flatter automation hierarchy composed of cooperating intelligent periphery and an on-demand cloud layer providing advanced control/optimization as a service. The objective is to develop and validate such approaches in both simulation (MATLAB/Simulink) and small scale pilot deployments (two/three tank system, flexible assembly line).
 
-* Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS
+* Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS *allocated*
 
 Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
 
