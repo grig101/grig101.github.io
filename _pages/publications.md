@@ -8,9 +8,9 @@ author_profile: true
 2020
 ------
 
-Stamatescu I., Mihalache R., Arghira N., Fagarasan I., Stamatescu G., Model for Optimized EVSE Deployment in Dense Urban Areas, 46th Annual Conference of the IEEE Industrial Electronics Society (IES), IECON 2020, October 18-21, 2020, Singapore. [PDF](/files/iecon20.pdf) accepted
+Stamatescu I., Mihalache R., Arghira N., Fagarasan I., Stamatescu G., Model for Optimized EVSE Deployment in Dense Urban Areas, 46th Annual Conference of the IEEE Industrial Electronics Society (IES), IECON 2020, October 18-21, 2020, Singapore. [PDF](/files/iecon20.pdf)
 
-Nichiforov C., Stancu I., Stamatescu I., Stamatescu G., Information Extraction Approach for Energy Time Series Modelling, 24th International Conference on System Theory, Control and Computing, ICSTCC 2020, October 8-10, 2020, Sinaia, Romania. [PDF](/files/icstcc20.pdf) accepted
+Nichiforov C., Stancu I., Stamatescu I., Stamatescu G., Information Extraction Approach for Energy Time Series Modelling, 24th International Conference on System Theory, Control and Computing, ICSTCC 2020, October 8-10, 2020, Sinaia, Romania. [PDF](/files/icstcc20.pdf)
 
 Nichiforov C., Stamatescu G., Stamatescu I., Fagarasan I., Learning Dominant Usage from Anomaly Patterns in Building Energy Traces, 16th International Conference on Automation Science and Engineering, CASE 2020, August 20-21, 2020, Hong Kong. [PDF](/files/case20.pdf)
 
