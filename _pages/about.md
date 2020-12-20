@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Welcome to my research homepage! 
-A-SUCCES
 
 Interests
 ------
@@ -17,6 +16,9 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" 2020-2023
+* [10/20] [Special Issue on "Energy Management for Smart Buildings"](https://www.mdpi.com/journal/energies/special_issues/EM_SB) - Energies
+* [09/20] Appointed Associate Editor for [IEEE Access](https://ieeeaccess.ieee.org)
 * [08/20] Launched the [2020 IEEE Robotics and Automation Romania Chapter Best PhD Thesis Award Competition](https://r8.ieee.org/romania-ras/phdaward/)
 * [07/20] Our paper on "Model for Optimized EVSE Deployment in Dense Urban Areas" has been accepted for publication at the 46th Annual Conference of the IEEE Industrial Electronics Society (IES) [IECON 2020](https://www.iecon2020.org)
 * [06/20] Appointed Co-Editor-in-Chief of the [International Journal of Computing](https://www.computingonline.net/computing)
@@ -28,9 +30,10 @@ News
 
 Service
 ------
+* 2021 TPCs: [IEEE SECON](https://cps-vo.org/node/72234)
 * 2020 TPCs: [IWSSS](https://iwsss.org/2020/), [INTAP](http://jdconline.net/intap/), [FEDCSIS](https://fedcsis.org), [EAIS](http://www.iaiai.org/conference/aai2020/conference/eais-2020/), [IDAACS-SWS](http://www.idaacs.net/2020), [DESSERT](http://dessert.ieee.org.ua/dessert-2020/)
 * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
-* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI)
+* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access] (https://ieeeaccess.ieee.org)
 * Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
 * Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair
 
@@ -55,4 +58,6 @@ As the on-board resources of embedded sensing and actuation nodes increase, loca
 * Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS *allocated*
 
 Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
+
+* Reinforcement learning for energy management
 
