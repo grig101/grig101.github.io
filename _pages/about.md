@@ -33,7 +33,7 @@ Service
 * 2021 TPCs: [IEEE SECON](https://cps-vo.org/node/72234)
 * 2020 TPCs: [IWSSS](https://iwsss.org/2020/), [INTAP](http://jdconline.net/intap/), [FEDCSIS](https://fedcsis.org), [EAIS](http://www.iaiai.org/conference/aai2020/conference/eais-2020/), [IDAACS-SWS](http://www.idaacs.net/2020), [DESSERT](http://dessert.ieee.org.ua/dessert-2020/)
 * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
-* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access] (https://ieeeaccess.ieee.org)
+* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
 * Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
 * Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair
 
