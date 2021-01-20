@@ -26,12 +26,14 @@ News
 * [05/20] Our paper on "Learning Dominant Usage from Anomaly Patterns in Building Energy Traces" has been accepted for publication at the 2020 IEEE 16th International Conference on Automation Science and Engineering [CASE 2020](https://www.imse.hku.hk/case2020/)
 * [12/19] Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. 
 * [09/19] [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors
-* [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
-* [03/19] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019
+
+# * [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
+
+# * [03/19] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019
 
 Service
 ------
-* 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021)
+* 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021)
 * 2020 TPCs: [IWSSS](https://iwsss.org/2020/), [INTAP](http://jdconline.net/intap/), [FEDCSIS](https://fedcsis.org), [EAIS](http://www.iaiai.org/conference/aai2020/conference/eais-2020/), [IDAACS-SWS](http://www.idaacs.net/2020), [DESSERT](http://dessert.ieee.org.ua/dessert-2020/)
 * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
