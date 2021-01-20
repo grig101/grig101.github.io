@@ -16,6 +16,7 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [03/19] Invited session on [Intelligent data processing from sensors in control and decision support systems](http://med2021.poliba.it/wordpress/invited-sessions/) - MED 2021
 * [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" 2020-2023
 * [10/20] [Special Issue on "Energy Management for Smart Buildings"](https://www.mdpi.com/journal/energies/special_issues/EM_SB) - Energies
 * [09/20] Appointed Associate Editor for [IEEE Access](https://ieeeaccess.ieee.org)
@@ -30,7 +31,7 @@ News
 
 Service
 ------
-* 2021 TPCs: [IEEE SECON](https://cps-vo.org/node/72234)
+* 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021)
 * 2020 TPCs: [IWSSS](https://iwsss.org/2020/), [INTAP](http://jdconline.net/intap/), [FEDCSIS](https://fedcsis.org), [EAIS](http://www.iaiai.org/conference/aai2020/conference/eais-2020/), [IDAACS-SWS](http://www.idaacs.net/2020), [DESSERT](http://dessert.ieee.org.ua/dessert-2020/)
 * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
