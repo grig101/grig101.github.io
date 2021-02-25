@@ -16,7 +16,7 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
-* [03/19] Invited session on [Intelligent data processing from sensors in control and decision support systems](http://med2021.poliba.it/wordpress/invited-sessions/) - MED 2021
+* [12/20] Invited session on [Intelligent data processing from sensors in control and decision support systems](http://med2021.poliba.it/wordpress/invited-sessions/) - MED 2021
 * [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" 2020-2023
 * [10/20] [Special Issue on "Energy Management for Smart Buildings"](https://www.mdpi.com/journal/energies/special_issues/EM_SB) - Energies
 * [09/20] Appointed Associate Editor for [IEEE Access](https://ieeeaccess.ieee.org)
@@ -27,9 +27,9 @@ News
 * [12/19] Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. 
 * [09/19] [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors
 
-# * [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
+ <!--- * [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information -->
 
-# * [03/19] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019
+ <!--- * [03/19] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019 -->
 
 Service
 ------
