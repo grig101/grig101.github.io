@@ -16,8 +16,12 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [02/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
+* [01/21] Started two new research projects:
+  * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023
+  * Extending the Measurement Concept for the Control of Emerging Power Systems (EMERGE), UEFISCDI Exploratory Research Projects Call 2020, 2021-2023
 * [12/20] Invited session on [Intelligent data processing from sensors in control and decision support systems](http://med2021.poliba.it/wordpress/invited-sessions/) - MED 2021
-* [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" 2020-2023
+* [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" (IoTrain) 2020-2023
 * [10/20] [Special Issue on "Energy Management for Smart Buildings"](https://www.mdpi.com/journal/energies/special_issues/EM_SB) - Energies
 * [09/20] Appointed Associate Editor for [IEEE Access](https://ieeeaccess.ieee.org)
 * [08/20] Launched the [2020 IEEE Robotics and Automation Romania Chapter Best PhD Thesis Award Competition](https://r8.ieee.org/romania-ras/phdaward/)
@@ -38,7 +42,7 @@ Service
 * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
 * Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
-* Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair
+* Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building)
 
 PhD Research Topics
 ------
