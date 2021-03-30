@@ -18,10 +18,10 @@ News
 ------
 * [02/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
 * [01/21] Started two new research projects:
-  * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023
-  * Extending the Measurement Concept for the Control of Emerging Power Systems (EMERGE), UEFISCDI Exploratory Research Projects Call 2020, 2021-2023
+  * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023 [Project website](https://www.haly-id.eu)
+  * Extending the Measurement Concept for the Control of Emerging Power Systems (EMERGE), UEFISCDI Exploratory Research Projects Call 2020, 2021-2023 [Project website](http://emerge.microderlab.pub.ro)
 * [12/20] Invited session on [Intelligent data processing from sensors in control and decision support systems](http://med2021.poliba.it/wordpress/invited-sessions/) - MED 2021
-* [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" (IoTrain) 2020-2023
+* [11/20] Started the ERASMUS+ Project "Master of Engineering in Internet of Things" (IoTrain) 2020-2023 [Project website](https://www.iotrain.eu)
 * [10/20] [Special Issue on "Energy Management for Smart Buildings"](https://www.mdpi.com/journal/energies/special_issues/EM_SB) - Energies
 * [09/20] Appointed Associate Editor for [IEEE Access](https://ieeeaccess.ieee.org)
 * [08/20] Launched the [2020 IEEE Robotics and Automation Romania Chapter Best PhD Thesis Award Competition](https://r8.ieee.org/romania-ras/phdaward/)
