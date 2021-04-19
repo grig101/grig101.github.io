@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+2021
+------
+
+Luchian R., Stamatescu G., Stamatescu I., Fagarasan I., Popescu D., IIoT Decentralized System Monitoring for Smart Industry Applications, 29th Mediterranean Conference on Control and Automation, MED 2019, June 22-25, Bari, Italy. [PDF](/files/med21.pdf) accepted
+
+Simoiu M., Stamatescu G., Calofir V., Fagarasan I., Iliescu S.St., Comparative Analysis of Predictive Models for Subway Rolling Stock Energy Forecasting, 23rd International Conference on Control Systems and Computer Science, CSCS23, May 26-28, Bucharest, Romania. [PDF](/files/cscs21.pdf) accepted
+
+Stamatescu G., Sachenko A., Popescu D., Convergence of Intelligent Data Acquisition and Advanced Computing Systems, Sensors, 2021, 21, 2262. [LINK](https://www.mdpi.com/1424-8220/21/7/2262)
+
 2020
 ------
 
