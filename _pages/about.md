@@ -17,7 +17,7 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 News
 ------
 * [05/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with Asti Automation and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
-* [03/21] Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
+* [03/21] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
 * [02/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
 * [01/21] Started two new research projects:
   * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023 [Project website](https://www.haly-id.eu)
