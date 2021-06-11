@@ -16,6 +16,8 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [05/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with Asti Automation and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
+* [03/21] Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
 * [02/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
 * [01/21] Started two new research projects:
   * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023 [Project website](https://www.haly-id.eu)
@@ -29,7 +31,7 @@ News
 * [06/20] Appointed Co-Editor-in-Chief of the [International Journal of Computing](https://www.computingonline.net/computing)
 * [05/20] Our paper on "Learning Dominant Usage from Anomaly Patterns in Building Energy Traces" has been accepted for publication at the 2020 IEEE 16th International Conference on Automation Science and Engineering [CASE 2020](https://www.imse.hku.hk/case2020/)
 * [12/19] Obtained the [Habilitation](https://en.wikipedia.org/wiki/Habilitation) (Dr.-Ing. habil.) certificate for advising PhD students in Automatic Control and Industrial Informatics – Systems Engineering domain. 
-* [09/19] [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors
+ <!---  * [09/19] [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors -->
 
  <!--- * [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information -->
 

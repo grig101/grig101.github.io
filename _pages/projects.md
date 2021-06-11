@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+* PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS), Subgrant no. HUBCAP- OC2.1-2020/1499086, June 2021 - December 2021
+
 * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023
 
 * Extending the Measurement Concept for the Control of Emerging Power Systems (EMERGE), UEFISCDI Exploratory Research Projects Call 2020, 2021-2023
