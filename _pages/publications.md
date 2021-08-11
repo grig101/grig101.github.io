@@ -8,11 +8,14 @@ author_profile: true
 2021
 ------
 
-Luchian R., Stamatescu G., Stamatescu I., Fagarasan I., Popescu D., IIoT Decentralized System Monitoring for Smart Industry Applications, 29th Mediterranean Conference on Control and Automation, MED 2019, June 22-25, Bari, Italy. [PDF](/files/med21.pdf) accepted
+Cretu G., Stamatescu I., Stamatescu G., Building Occupancy Classification from Indirect
+Sensing with Heterogeneous Datasets, 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2021, September 22-25, Cracow, Poland. [PDF](/files/idaacs21_occupancy.pdf) accepted
 
-Popescu D., Deaconu M., Ichim L., Stamatescu G., Retinal Blood Vessel Segmentation Using Pix2Pix GAN, MED 2019, June 22-25, Bari, Italy. [PDF](/files/med21_2.pdf) accepted
+Luchian R., Stamatescu G., Stamatescu I., Fagarasan I., Popescu D., IIoT Decentralized System Monitoring for Smart Industry Applications, 29th Mediterranean Conference on Control and Automation, MED 2019, June 22-25, Bari, Italy. [PDF](/files/med21.pdf)
 
-Simoiu M., Stamatescu G., Calofir V., Fagarasan I., Iliescu S.St., Comparative Analysis of Predictive Models for Subway Rolling Stock Energy Forecasting, 23rd International Conference on Control Systems and Computer Science, CSCS23, May 26-28, Bucharest, Romania. [PDF](/files/cscs21.pdf) accepted
+Popescu D., Deaconu M., Ichim L., Stamatescu G., Retinal Blood Vessel Segmentation Using Pix2Pix GAN, MED 2019, June 22-25, Bari, Italy. [PDF](/files/med21_2.pdf)
+
+Simoiu M., Stamatescu G., Calofir V., Fagarasan I., Iliescu S.St., Comparative Analysis of Predictive Models for Subway Rolling Stock Energy Forecasting, 23rd International Conference on Control Systems and Computer Science, CSCS23, May 26-28, Bucharest, Romania. [PDF](/files/cscs21.pdf) 
 
 Stamatescu G., Sachenko A., Popescu D., Convergence of Intelligent Data Acquisition and Advanced Computing Systems, Sensors, 2021, 21, 2262. [LINK](https://www.mdpi.com/1424-8220/21/7/2262)
 
