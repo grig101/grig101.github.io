@@ -8,6 +8,8 @@ author_profile: true
 2021
 ------
 
+Stamatescu G., Ciornei I., Plamanescu R., Dumitrescu. A., Albu M., Reporting Interval Impact on Deep Residential Energy Measurement Prediction, 11th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2021, September 29 - October 1, Virtual Workshop. [PDF](/files/amps21.pdf) accepted
+
 Cretu G., Stamatescu I., Stamatescu G., Building Occupancy Classification from Indirect
 Sensing with Heterogeneous Datasets, 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2021, September 22-25, Cracow, Poland. [PDF](/files/idaacs21_occupancy.pdf) accepted
 
