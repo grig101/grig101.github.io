@@ -8,6 +8,8 @@ author_profile: true
 2021
 ------
 
+Fagaras R., Nichiforov C., Stamatescu I., Stamatescu G., Evaluation of Compressed Residential Energy Forecasting Models, 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021), October 17-20, Melbourne, Australia. [PDF](/files/smc21.pdf) accepted
+
 Stamatescu G., Ciornei I., Plamanescu R., Dumitrescu. A., Albu M., Reporting Interval Impact on Deep Residential Energy Measurement Prediction, 11th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2021, September 29 - October 1, Virtual Workshop. [PDF](/files/amps21.pdf) accepted
 
 Cretu G., Stamatescu I., Stamatescu G., Building Occupancy Classification from Indirect

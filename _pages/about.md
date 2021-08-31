@@ -16,6 +16,9 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [8/21] Invited talk on "Data Processing Methods based on Artificial Intelligence for Time Series" at the 8th International Conference on Signal Processing and Integrated Networks ([SPIN 2021](https://www.amity.edu/spin2021/InvitedTalk.aspx)), Amity University, India
+* [7/21] Our paper on ["Evaluation of Compressed Residential Energy Forecasting Models"](https://www.grigorestamatescu.com/files/smc21.pdf) has been accepted for publication at the 2021 IEEE International Conference on Systems, Man, and Cybernetics [SMC 2021](http://ieeesmc2021.org)
+* [6/21] [Special Issue on "Complex Data Processing Systems and Computing Algorithms: New Concepts and Applications"](https://www.mdpi.com/journal/sensors/special_issues/DataPro) - Sensors
 * [05/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with Asti Automation and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
 * [03/21] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
 * [02/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
