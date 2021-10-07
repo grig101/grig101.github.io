@@ -10,10 +10,12 @@ author_profile: true
 
 Fagaras R., Nichiforov C., Stamatescu I., Stamatescu G., Evaluation of Compressed Residential Energy Forecasting Models, 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021), October 17-20, Melbourne, Australia. [PDF](/files/smc21.pdf) accepted
 
-Stamatescu G., Ciornei I., Plamanescu R., Dumitrescu. A., Albu M., Reporting Interval Impact on Deep Residential Energy Measurement Prediction, 11th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2021, September 29 - October 1, Virtual Workshop. [PDF](/files/amps21.pdf) accepted
+Luchian R., Rosioru S., Stamatescu I., Fagarasan I., Stamatescu G., Enabling Industrial Motion Control through IIoT Multi-Agent Communication, 47th Annual Conference of the IEEE Industrial Electronics Society (IES), IECON 2021, October 13-16, Toronto, Canada. [PDF](/files/iecon21.pdf) accepted
+
+Stamatescu G., Ciornei I., Plamanescu R., Dumitrescu. A., Albu M., Reporting Interval Impact on Deep Residential Energy Measurement Prediction, 11th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2021, September 29 - October 1, Virtual Workshop. [PDF](/files/amps21.pdf)
 
 Cretu G., Stamatescu I., Stamatescu G., Building Occupancy Classification from Indirect
-Sensing with Heterogeneous Datasets, 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2021, September 22-25, Cracow, Poland. [PDF](/files/idaacs21_occupancy.pdf) accepted
+Sensing with Heterogeneous Datasets, 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2021, September 22-25, Cracow, Poland. [PDF](/files/idaacs21_occupancy.pdf)
 
 Luchian R., Stamatescu G., Stamatescu I., Fagarasan I., Popescu D., IIoT Decentralized System Monitoring for Smart Industry Applications, 29th Mediterranean Conference on Control and Automation, MED 2019, June 22-25, Bari, Italy. [PDF](/files/med21.pdf)
 
