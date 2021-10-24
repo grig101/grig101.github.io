@@ -8,9 +8,11 @@ author_profile: true
 2021
 ------
 
-Fagaras R., Nichiforov C., Stamatescu I., Stamatescu G., Evaluation of Compressed Residential Energy Forecasting Models, 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021), October 17-20, Melbourne, Australia. [PDF](/files/smc21.pdf) accepted
+Stamatescu G., Chitu C., Privacy-Preserving Sensing and Two-Stage Building Occupancy Prediction Using Random Forest Learning, Journal of Sensors, vol. 2021, Article ID 8000595, 12 pages, 2021. [LINK](https://doi.org/10.1155/2021/8000595)
 
-Luchian R., Rosioru S., Stamatescu I., Fagarasan I., Stamatescu G., Enabling Industrial Motion Control through IIoT Multi-Agent Communication, 47th Annual Conference of the IEEE Industrial Electronics Society (IES), IECON 2021, October 13-16, Toronto, Canada. [PDF](/files/iecon21.pdf) accepted
+Fagaras R., Nichiforov C., Stamatescu I., Stamatescu G., Evaluation of Compressed Residential Energy Forecasting Models, 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021), October 17-20, Melbourne, Australia. [PDF](/files/smc21.pdf)
+
+Luchian R., Rosioru S., Stamatescu I., Fagarasan I., Stamatescu G., Enabling Industrial Motion Control through IIoT Multi-Agent Communication, 47th Annual Conference of the IEEE Industrial Electronics Society (IES), IECON 2021, October 13-16, Toronto, Canada. [PDF](/files/iecon21.pdf)
 
 Stamatescu G., Ciornei I., Plamanescu R., Dumitrescu. A., Albu M., Reporting Interval Impact on Deep Residential Energy Measurement Prediction, 11th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2021, September 29 - October 1, Virtual Workshop. [PDF](/files/amps21.pdf)
 

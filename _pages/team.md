@@ -11,4 +11,4 @@ author_profile: true
 
 * Adrian Minea
 
-* Ionut Stancu
+* Sabin Rosioru
