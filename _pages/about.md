@@ -16,6 +16,7 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
+* [10/21] Started the ["rEsilient and seLf-healed EleCTRical pOwer Nanogrid" (ELECTRON)](https://electron-project.eu) Horizon 2020 research project together with [TUV Austria Romania](https://www.tuv-austria.ro)
 * [9/21] ["Engineer your Future!"](https://www.microderlab.upb.ro/futureengineers/) educational STEM outreach project for high-school seniors, launched with support from the Embassy of the United States of America in Romania, IEEE Romania Section and the University Politehnica of Bucharest
 * [8/21] Invited talk on "Data Processing Methods based on Artificial Intelligence for Time Series" at the 8th International Conference on Signal Processing and Integrated Networks ([SPIN 2021](https://www.amity.edu/spin2021/InvitedTalk.aspx)), Amity University, India
 * [7/21] Our paper on ["Evaluation of Compressed Residential Energy Forecasting Models"](https://www.grigorestamatescu.com/files/smc21.pdf) has been accepted for publication at the 2021 IEEE International Conference on Systems, Man, and Cybernetics [SMC 2021](http://ieeesmc2021.org)
