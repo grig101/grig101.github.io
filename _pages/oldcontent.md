@@ -19,3 +19,5 @@ Old(-er) News
 * [09/19] [Special Issue on "Convergence of Intelligent Data Acquisition and Advanced Computing Systems"](https://www.mdpi.com/journal/sensors/special_issues/IDAACS2019) - Sensors
  * [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
  * [03/19] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019
+ 
+ * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)

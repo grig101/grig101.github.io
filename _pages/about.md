@@ -16,8 +16,8 @@ Sensors; Large scale and distributed sensor systems; Sensor information processi
 
 News
 ------
-* [12/21] EWSN
-* [11/21] ECAI
+* [12/21] Serving as PhD Forum Co-Chair at the [International Conference on Embedded Wireless Systems and Networks (EWSN)](https://ewsn2022.pro2future.at/), October 3-5, 2022, Linz, Austria
+* [11/21] Invited speaker at 14th Edition International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2022) on ["Cybersecurity Trends and Challenges in Electrical Power and Energy Systems (EPES)"](https://ecai.ro/invited-speakers)
 * [10/21] Started the ["rEsilient and seLf-healed EleCTRical pOwer Nanogrid" (ELECTRON)](https://electron-project.eu) Horizon 2020 research project together with [TUV Austria Romania](https://www.tuv-austria.ro)
 * [9/21] ["Engineer your Future!"](https://www.microderlab.upb.ro/futureengineers/) educational STEM outreach project for high-school seniors, launched with support from the Embassy of the United States of America in Romania, IEEE Romania Section and the University Politehnica of Bucharest
 * [8/21] Invited talk on "Data Processing Methods based on Artificial Intelligence for Time Series" at the 8th International Conference on Signal Processing and Integrated Networks ([SPIN 2021](https://www.amity.edu/spin2021/InvitedTalk.aspx)), Amity University, India
@@ -30,15 +30,13 @@ News
   * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023 [Project website](https://www.haly-id.eu)
   * Extending the Measurement Concept for the Control of Emerging Power Systems (EMERGE), UEFISCDI Exploratory Research Projects Call 2020, 2021-2023 [Project website](http://emerge.microderlab.pub.ro)
 
-
 Service
 ------
 * 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021), [IEEE MASS](https://eng.auburn.edu/conference/ieee-mass2021/)
 * 2020 TPCs: [IWSSS](https://iwsss.org/2020/), [INTAP](http://jdconline.net/intap/), [FEDCSIS](https://fedcsis.org), [EAIS](http://www.iaiai.org/conference/aai2020/conference/eais-2020/), [IDAACS-SWS](http://www.idaacs.net/2020), [DESSERT](http://dessert.ieee.org.ua/dessert-2020/)
-* 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
-* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Smart Cities](https://www.mdpi.com/journal/smartcities), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
+* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
 * Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
-* Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building)
+* Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
 
 PhD Research Topics
 ------
@@ -50,7 +48,7 @@ Large commercial buildings offer significant economic and environmental incentiv
 
 Many industrial processes are monitored through tens to thousands of continuous and discrete sensors producing rich data traces at various timescales. The objective is to first perform a critical evaluation among conventional time series modelling algorithms e.g. multivariate SARIMA, against new machine learning and deep learning models e.g. recurrent and convolutional neural networks, for forecasting and anomaly detection tasks in typical industrial scenarios. Second, the viability of online inference for these types of models will be investigated through targeted case studies e.g. multilevel direct and indirect energy measurement in smart buildings and production facilities.
 
-* Large scale monitoring by means of distributed sensor networks *allocated*
+* Large scale monitoring by means of distributed sensor networks
 
 Distributed sensor networks involve large numbers of sensing, computing and communication nodes that collaborate for joint observation of interest areas. Embedded consensus algorithms allow improved operation through data reduction and better quality of information. The objective is to develop new methods for distributed sensing in large scale applications that increase network lifetime, resilience and robustness for critical tasks. Implementation and benchmarking will be handled both in simulation and on a dedicated test bed infrastructure in connection to predefined KPIs.
 
@@ -58,7 +56,7 @@ Distributed sensor networks involve large numbers of sensing, computing and comm
 
 As the on-board resources of embedded sensing and actuation nodes increase, local extraction of relevant information becomes possible as well as embedded predictive control schemes that use this information. This leads to a flatter automation hierarchy composed of cooperating intelligent periphery and an on-demand cloud layer providing advanced control/optimization as a service. The objective is to develop and validate such approaches in both simulation (MATLAB/Simulink) and small scale pilot deployments (two/three tank system, flexible assembly line).
 
-* Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS *allocated*
+* Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS
 
 Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
 
