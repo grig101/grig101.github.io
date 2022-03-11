@@ -12,10 +12,11 @@ Welcome to my research homepage!
 
 Interests
 ------
-Sensors; Large scale and distributed sensor systems; Sensor information processing; Statistical learning and computational intelligence techniques for sensor data; New paradigms: (Industrial-) Internet of Things, Cyber-physical Systems; Sensors in Automation and Control; Applications: industry, energy systems, smart buildings and smart cities.
+Large scale and distributed sensor systems; Sensor information processing; Statistical learning and computational intelligence techniques for sensor data; New paradigms: (Industrial-) Internet of Things, Cyber-physical Systems; Sensors in Automation and Control; Applications: industry, energy systems, smart buildings and smart cities.
 
 News
 ------
+* [2/22] Our tutorial on [Data Preprocessing Techniques for Multiscale Measurements Analytics](https://i2mtc2022.ieee-ims.org/tutorials/) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 16-19, 2022, Ottawa, Canada
 * [12/21] Serving as PhD Forum Co-Chair at the [International Conference on Embedded Wireless Systems and Networks (EWSN)](https://ewsn2022.pro2future.at/), October 3-5, 2022, Linz, Austria
 * [11/21] Invited speaker at 14th Edition International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2022) on ["Cybersecurity Trends and Challenges in Electrical Power and Energy Systems (EPES)"](https://ecai.ro/invited-speakers)
 * [10/21] Started the ["rEsilient and seLf-healed EleCTRical pOwer Nanogrid" (ELECTRON)](https://electron-project.eu) Horizon 2020 research project together with [TUV Austria Romania](https://www.tuv-austria.ro)
@@ -23,19 +24,18 @@ News
 * [8/21] Invited talk on "Data Processing Methods based on Artificial Intelligence for Time Series" at the 8th International Conference on Signal Processing and Integrated Networks ([SPIN 2021](https://www.amity.edu/spin2021/InvitedTalk.aspx)), Amity University, India
 * [7/21] Our paper on ["Evaluation of Compressed Residential Energy Forecasting Models"](https://www.grigorestamatescu.com/files/smc21.pdf) has been accepted for publication at the 2021 IEEE International Conference on Systems, Man, and Cybernetics [SMC 2021](http://ieeesmc2021.org)
 * [6/21] [Special Issue on "Complex Data Processing Systems and Computing Algorithms: New Concepts and Applications"](https://www.mdpi.com/journal/sensors/special_issues/DataPro) - Sensors
-* [05/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with Asti Automation and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
-* [03/21] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
-* [02/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
-* [01/21] Started two new research projects:
+* [5/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with Asti Automation and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
+* [3/21] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
+* [2/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
+* [1/21] Started two new research projects:
   * HALYomorpha halys IDentification: Innovative ICT tools for targeted monitoring and sustainable management of the brown marmorated stink bug and other pests (HALY.ID), ERA-NET CT-AGRI-FOOD, 2021-2023 [Project website](https://www.haly-id.eu)
   * Extending the Measurement Concept for the Control of Emerging Power Systems (EMERGE), UEFISCDI Exploratory Research Projects Call 2020, 2021-2023 [Project website](http://emerge.microderlab.pub.ro)
 
 Service
 ------
+* 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr)
 * 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021), [IEEE MASS](https://eng.auburn.edu/conference/ieee-mass2021/)
-* 2020 TPCs: [IWSSS](https://iwsss.org/2020/), [INTAP](http://jdconline.net/intap/), [FEDCSIS](https://fedcsis.org), [EAIS](http://www.iaiai.org/conference/aai2020/conference/eais-2020/), [IDAACS-SWS](http://www.idaacs.net/2020), [DESSERT](http://dessert.ieee.org.ua/dessert-2020/)
-* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI), [IEEE Access](https://ieeeaccess.ieee.org)
-* Reviewer: [Applied Energy](https://www.journals.elsevier.com/applied-energy), [IEEE Sensors](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence)
+* Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI)
 * Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
 
 PhD Research Topics
