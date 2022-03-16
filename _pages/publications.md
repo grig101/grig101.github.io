@@ -8,6 +8,8 @@ author_profile: true
 2022
 ------
 
+Rosioru, S.; Mihai, V.; Neghina, M.; Craciunean, D.; Stamatescu, G. PROSIM in the Cloud: Remote Automation Training Platform with Virtualized Infrastructure. Applied Sciences 2022, 12, 3038. [LINK](https://www.mdpi.com/2076-3417/12/6/3038)
+
 Stamatescu G., Plamanescu R., Dumitrescu. A., Ciornei I., Albu M., Multiscale Data Analytics for Residential Active Power Measurements through Time Series Data Mining, IEEE International Energy Conference, ENERGYCON 2022, May 9-12, Riga, Latvia. [PDF](/files/energycon22.pdf) accepted
 
 2021
