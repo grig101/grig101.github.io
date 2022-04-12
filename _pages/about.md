@@ -33,7 +33,7 @@ News
 
 Service
 ------
-* 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr)
+* 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [IEEE SECON](https://secon2022.ieee-secon.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr)
 * 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021), [IEEE MASS](https://eng.auburn.edu/conference/ieee-mass2021/)
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI)
 * Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
