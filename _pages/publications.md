@@ -8,9 +8,11 @@ author_profile: true
 2022
 ------
 
+Stamatescu G., Ciornei I., Plamanescu R., Albu M., Detection of Anomalies in Power Profiles using Data Analytics, 12th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2022, September 28 - 30, Cagliari, Italy. [PDF](/files/amps22.pdf) accepted
+
 Rosioru, S.; Mihai, V.; Neghina, M.; Craciunean, D.; Stamatescu, G. PROSIM in the Cloud: Remote Automation Training Platform with Virtualized Infrastructure. Applied Sciences 2022, 12, 3038. [LINK](https://www.mdpi.com/2076-3417/12/6/3038)
 
-Stamatescu G., Plamanescu R., Dumitrescu. A., Ciornei I., Albu M., Multiscale Data Analytics for Residential Active Power Measurements through Time Series Data Mining, IEEE International Energy Conference, ENERGYCON 2022, May 9-12, Riga, Latvia. [PDF](/files/energycon22.pdf) accepted
+Stamatescu G., Plamanescu R., Dumitrescu. A., Ciornei I., Albu M., Multiscale Data Analytics for Residential Active Power Measurements through Time Series Data Mining, IEEE International Energy Conference, ENERGYCON 2022, May 9-12, Riga, Latvia. [PDF](/files/energycon22.pdf) 
 
 2021
 ------
