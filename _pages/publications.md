@@ -7,8 +7,11 @@ author_profile: true
 
 2022
 ------
+Rosioru S., Stamatescu G., Stamatescu I., Fagarasan I., Popescu D., Deep Learning based Parts Classification in a Cognitive Robotic Cell System, 26th International Conference on System Theory, Control and Computing, ICSTCC 2022, October 19-21, Sinaia, Romania. [PDF](/files/icstcc22.pdf) accepted
 
 Stamatescu G., Ciornei I., Plamanescu R., Albu M., Detection of Anomalies in Power Profiles using Data Analytics, 12th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2022, September 28 - 30, Cagliari, Italy. [PDF](/files/amps22.pdf) accepted
+
+Pavel M.-D., Rosioru S., Arghira N., Stamatescu G., Control of Open Mobile Robotic Platform using Deep Reinforcement Learning, 12th International Workshop on Service-Oriented, Holonic and Multi-Agent Manufacturing Systems for Industry of the Future, SOHOMA 2022, September 22-23, Bucharest, Romania. [PDF](/files/sohoma22.pdf) accepted
 
 Rosioru, S.; Mihai, V.; Neghina, M.; Craciunean, D.; Stamatescu, G. PROSIM in the Cloud: Remote Automation Training Platform with Virtualized Infrastructure. Applied Sciences 2022, 12, 3038. [LINK](https://www.mdpi.com/2076-3417/12/6/3038)
 
