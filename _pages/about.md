@@ -16,6 +16,7 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
+* [10/22] Started the “Bridging Carbon Neutral LNG with the Energy Market – A Novel Ontochain Application” (OTCnLNG) project together with HODLNG and Applied Research Solutions within the [NGI ONTOCHAIN](https://ontochain.ngi.eu) program
 * [2/22] Our tutorial on [Data Preprocessing Techniques for Multiscale Measurements Analytics](https://i2mtc2022.ieee-ims.org/tutorials/) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 16-19, 2022, Ottawa, Canada
 * [12/21] Serving as PhD Forum Co-Chair at the [International Conference on Embedded Wireless Systems and Networks (EWSN)](https://ewsn2022.pro2future.at/), October 3-5, 2022, Linz, Austria
 * [11/21] Invited speaker at 14th Edition International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2022) on ["Cybersecurity Trends and Challenges in Electrical Power and Energy Systems (EPES)"](https://ecai.ro/invited-speakers)
