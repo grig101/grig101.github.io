@@ -16,7 +16,7 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
-* [10/22] Started the “Bridging Carbon Neutral LNG with the Energy Market – A Novel Ontochain Application” (OTCnLNG) project together with HODLNG and Applied Research Solutions within the [NGI ONTOCHAIN](https://ontochain.ngi.eu) program
+* [10/22] Started the “Bridging Carbon Neutral LNG with the Energy Market – A Novel Ontochain Application” (OTCnLNG) project together with HODLNG and [Applied Research Solutions](https://www.research-solutions.eu) within the [NGI ONTOCHAIN](https://ontochain.ngi.eu) program
 * [2/22] Our tutorial on [Data Preprocessing Techniques for Multiscale Measurements Analytics](https://i2mtc2022.ieee-ims.org/tutorials/) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 16-19, 2022, Ottawa, Canada
 * [12/21] Serving as PhD Forum Co-Chair at the [International Conference on Embedded Wireless Systems and Networks (EWSN)](https://ewsn2022.pro2future.at/), October 3-5, 2022, Linz, Austria
 * [11/21] Invited speaker at 14th Edition International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2022) on ["Cybersecurity Trends and Challenges in Electrical Power and Energy Systems (EPES)"](https://ecai.ro/invited-speakers)
@@ -25,7 +25,7 @@ News
 * [8/21] Invited talk on "Data Processing Methods based on Artificial Intelligence for Time Series" at the 8th International Conference on Signal Processing and Integrated Networks ([SPIN 2021](https://www.amity.edu/spin2021/InvitedTalk.aspx)), Amity University, India
 * [7/21] Our paper on ["Evaluation of Compressed Residential Energy Forecasting Models"](https://www.grigorestamatescu.com/files/smc21.pdf) has been accepted for publication at the 2021 IEEE International Conference on Systems, Man, and Cybernetics [SMC 2021](http://ieeesmc2021.org)
 * [6/21] [Special Issue on "Complex Data Processing Systems and Computing Algorithms: New Concepts and Applications"](https://www.mdpi.com/journal/sensors/special_issues/DataPro) - Sensors
-* [5/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with Asti Automation and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
+* [5/21] [PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS)](https://www.astiautomation.ro/cercetare-dezvoltare/hubcap-pro-cps/) project together with [Asti Automation](https://www.astiautomation.com) and Energeia Technologies within the [HUBCAP](https://www.hubcap.eu): Digital Innovation HUBs and Collaborative Platform for Cyber-Physical Systems ecosystem
 * [3/21] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2021/spec_stream_sbsc) - IDAACS'2021
 * [2/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
 * [1/21] Started two new research projects:
@@ -38,7 +38,7 @@ Service
 * 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [IEEE SECON](https://secon2022.ieee-secon.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr), [IEEE MASS](https://sites.google.com/view/ieee-mass-2022), [ICPADS](http://ieee-icpads.net/2022/)
 * 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021), [IEEE MASS](https://eng.auburn.edu/conference/ieee-mass2021/)
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI)
-* Senior member of IEEE and [Robotics and Automation Society](http://www.ieee-ras.org) chapter chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
+* Senior member of IEEE and [Romania Section](https://romania.ieeer8.org) secretary; [Robotics and Automation Society](http://www.ieee-ras.org) chapter past-chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
 
 PhD Research Topics
 ------
@@ -61,6 +61,4 @@ As the on-board resources of embedded sensing and actuation nodes increase, loca
 * Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS
 
 Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
-
-* Reinforcement learning for energy management
 

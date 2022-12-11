@@ -7,8 +7,8 @@ author_profile: true
 
 * [Cristina Nichiforov](https://scholar.google.com/citations?user=-C5repIAAAAJ)
 
-* [Razvan Luchian](https://scholar.google.com/citations?user=BVTQv-8AAAAJ)
+* [Sabin Rosioru](https://scholar.google.com/citations?hl=ro&user=NioGk3cAAAAJ)
 
-* Adrian Minea
+* [Georgiana Cretu](https://scholar.google.com/citations?user=08GG9QoAAAAJ)
 
-* Sabin Rosioru
+* [Mihai-Daniel Pavel](https://scholar.google.com/citations?hl=ro&user=pnQWHTAAAAAJ)
