@@ -30,5 +30,3 @@ Description: The course on Control Engineering II is a continuation of the disci
 Control Engineering (Regelungstechnik I). The method of analysis and design of systems based on root locus is presented. An introduction is made in the field of state space and an analysis and synthesis of nonlinear systems in the domain of frequency and in state space. The controllability and observability properties of the systems are described and evaluated. Intelligent techniques for control of industrial processes using fuzzy logic, neural networks and genetic algorithms are also presented. The project assignment developed during the course integrates the knowledge gained in a unitary approach, with practical applicability through appropriate software tools: MATLAB Control System Toolbox, SISO Tool, Fuzzy Logic Toolbox.
 
 Keywords: root locus, state space, multivariable system, nonlinear systems, intelligent control systems 
-
-* Sensoren und Aktuatoren (Sensors and Actuators)
