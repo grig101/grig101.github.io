@@ -16,6 +16,9 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
+* [2/23] Our tutorial on [Detection and Forecasting of Micro-Scale Variability in Electric Power Profiles](https://i2mtc2023.ieee-ims.org/tutorial-presentations) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 22-25, 2023, Kuala Lumpur, Malaysia
+* [1/23] Appointed corresponding member of the [IEEE Region 8 Membership Development Committee](https://ieeer8.org/category/member-activities/membership-development/)
+* [12/22] Serving as Web and Publicity Chair at the [28th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)](https://2023.ieee-etfa.org), September 12-15, 2023, Sinaia, Romania
 * [10/22] Started the “Bridging Carbon Neutral LNG with the Energy Market – A Novel Ontochain Application” (OTCnLNG) project together with HODLNG and [Applied Research Solutions](https://www.research-solutions.eu) within the [NGI ONTOCHAIN](https://ontochain.ngi.eu) program
 * [2/22] Our tutorial on [Data Preprocessing Techniques for Multiscale Measurements Analytics](https://i2mtc2022.ieee-ims.org/tutorials/) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 16-19, 2022, Ottawa, Canada
 * [12/21] Serving as PhD Forum Co-Chair at the [International Conference on Embedded Wireless Systems and Networks (EWSN)](https://ewsn2022.pro2future.at/), October 3-5, 2022, Linz, Austria
