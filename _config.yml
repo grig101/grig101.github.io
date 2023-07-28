@@ -84,7 +84,7 @@ author:
   avatar           : "picture.jpg"
   bio              : "Professor at UPB"
   location         : "Bucharest, Romania"
-  employer         :
+  employer         : "https://www.research-solutions.eu"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ro/citations?user=8Vsl1vkAAAAJ"
   email            : "grigore.stamatescu@upb.ro"
