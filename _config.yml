@@ -83,8 +83,8 @@ author:
   name             : "Grigore Stamatescu"
   avatar           : "picture.jpg"
   bio              : "Professor at UPB"
-  location         : "Bucharest, Romania"
-  employer         : "https://www.research-solutions.eu"
+  location         : #"Bucharest, Romania"
+  employer         : "[Applied Research Solutions](https://www.research-solutions.eu)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ro/citations?user=8Vsl1vkAAAAJ"
   email            : "grigore.stamatescu@upb.ro"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "grigore-stamatescu-12a73876"
-  orcid            : "https://orcid.org/0000-0002-9647-6817"
+  orcid            : #"https://orcid.org/0000-0002-9647-6817"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
