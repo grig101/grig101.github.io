@@ -7,7 +7,7 @@ author_profile: true
 
 2023
 ------
-Stamatescu G., Plamanescu R., Albu M., Leveraging Anomaly Detection and AutoML for Modelling Residential Measurement Power Traces, 13th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2023, September 27 - 29, Bern, Switzerland. [PDF](/files/amps23.pdf) accepted
+Stamatescu G., Plamanescu R., Albu M., Leveraging Anomaly Detection and AutoML for Modelling Residential Measurement Power Traces, 13th IEEE International Workshop on Applied Measurements for Power Systems, AMPS 2023, September 27 - 29, Bern, Switzerland. [PDF](/files/amps23.pdf)
 
 Cretu G., Stamatescu I., Stamatescu G., Evaluation of Deep Learning and Machine Learning Algorithms for Building Occupancy Classification on Open Datasets, 31st Mediterranean Conference on Control and Automation, MED 2023, June 26-29, Limassol, Cyprus. [PDF](/files/med23.pdf)
 

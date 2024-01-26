@@ -11,4 +11,8 @@ author_profile: true
 
 * [Georgiana Cretu](https://scholar.google.com/citations?user=08GG9QoAAAAJ)
 
+* [Ilie Daniel Gheorghe-Pop](https://scholar.google.com/citations?user=z0Yxzp4AAAAJ)
+
+* [Marian Craioveanu](https://scholar.google.com/citations?user=kZceQ2MAAAAJ)
+
 * [Mihai-Daniel Pavel](https://scholar.google.com/citations?hl=ro&user=pnQWHTAAAAAJ)
