@@ -7,6 +7,8 @@ author_profile: true
 
 Active Projects
 ------
+* FIWARE Driven Energy Communities for the Future (ECom4Future), ERA-NET Clean Energy Transition Partnership (CETP), 2023 - 2026 [Project website](https://projekte.ffg.at/projekt/4828487)
+
 * rEsilient and seLf-healed EleCTRical pOwer Nanogrid (ELECTRON), Grant No. 101021936, H2020-SU-DS-2020, 2021-2024 [Project website](https://electron-project.eu)
 
 * ERASMUS+ Capacity Building Project "Master of Engineering in Internet of Things" (IoTrain) 2020-2023 [Project website](https://www.iotrain.eu)

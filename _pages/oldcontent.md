@@ -7,6 +7,10 @@ author_profile: true
 
 Old(-er) News
 ------
+* [10/21] Started the ["rEsilient and seLf-healed EleCTRical pOwer Nanogrid" (ELECTRON)](https://electron-project.eu) Horizon 2020 research project together with [TUV Austria Romania](https://www.tuv-austria.ro)
+* [9/21] ["Engineer your Future!"](https://www.microderlab.upb.ro/futureengineers/) educational STEM outreach project for high-school seniors, launched with support from the Embassy of the United States of America in Romania, IEEE Romania Section and the University Politehnica of Bucharest
+* [2/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
+
 * [12/21] Serving as PhD Forum Co-Chair at the [International Conference on Embedded Wireless Systems and Networks (EWSN)](https://ewsn2022.pro2future.at/), October 3-5, 2022, Linz, Austria
 * [11/21] Invited speaker at 14th Edition International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2022) on ["Cybersecurity Trends and Challenges in Electrical Power and Energy Systems (EPES)"](https://ecai.ro/invited-speakers)
 * [8/21] Invited talk on "Data Processing Methods based on Artificial Intelligence for Time Series" at the 8th International Conference on Signal Processing and Integrated Networks ([SPIN 2021](https://www.amity.edu/spin2021/InvitedTalk.aspx)), Amity University, India
