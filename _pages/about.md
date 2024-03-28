@@ -16,8 +16,8 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
-* [4/23] Started the [Clean Energy Transition Partnership](https://cetpartnership.eu) project "FIWARE Driven Energy Communities for the Future" (ECom4Future)
-* [3/23] Serving as Industry Liaison Chair for the [2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense 2024)](https://techdefense.org), November 11-13, 2024, Naples, Italy,
+* [4/24] Started the [Clean Energy Transition Partnership](https://cetpartnership.eu) project "FIWARE Driven Energy Communities for the Future" (ECom4Future)
+* [3/24] Serving as Industry Liaison Chair for the [2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense 2024)](https://techdefense.org), November 11-13, 2024, Naples, Italy,
 * [2/23] Our tutorial on [Detection and Forecasting of Micro-Scale Variability in Electric Power Profiles](https://i2mtc2023.ieee-ims.org/tutorial-presentations) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 22-25, 2023, Kuala Lumpur, Malaysia
 * [1/23] Appointed corresponding member of the [IEEE Region 8 Membership Development Committee](https://ieeer8.org/category/member-activities/membership-development/)
 * [12/22] Serving as Web and Publicity Chair at the [28th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)](https://2023.ieee-etfa.org), September 12-15, 2023, Sinaia, Romania
