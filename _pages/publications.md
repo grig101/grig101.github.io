@@ -6,9 +6,11 @@ author_profile: true
 ---
 2024
 ------
-Pavel M.-D., Stamatescu G., Flexible Manufacturing System for Enhanced Industry 4.0 and Industry 5.0 Applications, 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2024) - 6th International Workshop on IoT Applications and Industry 5.0 (IoTI5), April 28 - May 1, Abu Dhabi, United Arab Emirates. [PDF](/files/dcoss24_1.pdf) accepted
+Craioveanu M., Stamatescu G., Detection and Identification of Unexploded Ordnance using a Two-Step Deep Learning Methodology, 32nd Mediterranean Conference on Control and Automation, MED 2024, June 11-14, Chania, Greece. [PDF](/files/med24.pdf)
 
-Cretu G., Stamatescu I., Stamatescu G., Exploratory Data Analysis on Open Heterogeneous Building Occupancy Datasets, IEEE International Energy Conference, ENERGYCON 2024, March 4-7, Doha, Qatar. [PDF](/files/energycon24.pdf) accepted
+Pavel M.-D., Stamatescu G., Flexible Manufacturing System for Enhanced Industry 4.0 and Industry 5.0 Applications, 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2024) - 6th International Workshop on IoT Applications and Industry 5.0 (IoTI5), April 28 - May 1, Abu Dhabi, United Arab Emirates. [PDF](/files/dcoss24_1.pdf)
+
+Cretu G., Stamatescu I., Stamatescu G., Exploratory Data Analysis on Open Heterogeneous Building Occupancy Datasets, IEEE International Energy Conference, ENERGYCON 2024, March 4-7, Doha, Qatar. [PDF](/files/energycon24.pdf)
 
 
 2023
