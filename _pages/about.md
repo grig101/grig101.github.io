@@ -34,26 +34,31 @@ Service
 PhD Research Topics
 ------
 * Efficient methods for multivariate time series processing for forecasting and anomaly detection
+
 Many industrial processes are monitored through tens to thousands of continuous and discrete sensors producing rich data traces at various timescales. The objective is to first perform a critical evaluation among conventional time series modelling algorithms e.g. multivariate SARIMA, against new machine learning and deep learning models e.g. recurrent and convolutional neural networks, for forecasting and anomaly detection tasks in typical industrial scenarios. Second, the viability of online inference for these types of models will be investigated through targeted case studies e.g. multilevel direct and indirect energy measurements in smart buildings and production facilities.
 
 Objectives: Perform a comparative evaluation of SoA time series processing algorithms; Improve the current available methods by incorporating domain specific knowledge into the data processing and learning pipeline; Validate the proposed approaches through evaluation on public or experimental datasets.
 
 * Large scale monitoring by means of distributed sensor networks
+
 Distributed sensor networks involve large numbers of sensing, computing and communication nodes that collaborate for joint observation of interest areas. Embedded consensus algorithms allow improved operation through data reduction and better quality of information. The objective is to develop new methods for distributed sensing in large scale applications that increase network lifetime, resilience and robustness for critical tasks. Implementation and benchmarking will be handled both in simulation and on a dedicated test bed infrastructure in connection to predefined KPIs.
 
 Objectives: Analysis of current approaches, protocols, and systems for large scale monitoring; Modelling and simulation of heterogeneous monitoring architectures (including cooperation between sensor networks and unmanned robotic platforms) using suitable software tools; Deployment and assessment of a laboratory-scale testbed for distributed sensor networks, with use cases in environmental monitoring, precision agriculture and emergency situations.
 
 * AI-based energy management systems
+
 High reporting rate energy measurements enable fine grained monitoring and control in buildings and electrical grids. Various artificial intelligence methods are currently being applied for pre-processing, feature extraction and both supervised and unsupervised modelling of such data with the goal of achieving energy efficiency and related sustainability targets. New energy management schemes will be developed that combine state-of-the-art AI methods, tools and libraries with specific engineering domain knowledge for improving the closed loop control systems performance. Evaluation will be carried out in accordance with suitably predefined metrics for achieving economic, end-user satisfaction and environmental benchmarks.
 
 Objectives: Study of the relevant AI-based methods, systems, and tools for energy applications; Integration of energy forecasting and anomaly detection with control loops in smart buildings and smart grids; Model (hyper-) parametrisation and tuning for improved performance.
 
 * Industrial control system (ICS) cybersecurity 
+
 A growing number of cyber-attacks target vulnerabilities of connected industrial equipment and systems that control various functions in vital sectors of our society in critical infrastructures such as energy, utilities, transport and logistics and healthcare. Deep IT/OT integration requires robust methodologies for a multi-faceted approach in the development of safe and secure systems that mainly assure their availability, along with confidentiality and integrity of the information. Methods for intrusion detection and prevention, security information management and threat intelligence will be deployed for increased resilience while accounting for the particularities of modern PLC, RTU, HMI and SCADA equipment. The international/European framework for standardisation and regulation in the field of ICS cybersecurity as well as best practices and guidelines will also be considered.
 
 Objectives: Study of best practices and advanced technical solutions for securing ICS equipment and networks; Development of new methods to increase ICS safety and security including but not limited to distributed machine learning, post-quantum technologies and blockchain solutions; Assessment of ICS equipment resilience using well established international norms.
 
-5. Edge intelligence for the Industrial Internet of Things
+* Edge intelligence for the Industrial Internet of Things
+
 Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation, and reporting. These are currently being deployed on networked embedded real time system platforms with increased computing and communication capabilities for achieving edge intelligence. Several challenges in relation to the performance of such systems under high application requirements e.g. real time motion control for object detection and tracking, have to be addressed. The use of embedded GPUs for local inference along with domain-specific programming languages and other specialised hardware/software modules introduces additional layers of complexity. Suitable solutions have to balance system performance with robustness and cost, along with growing environmental requirements (green computing). A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasibility of the proposed solutions.
 
 Objectives: Study of current technologies for embedded computing/on-device learning and real-time industrial communication as key enablers of Industry 4.0/IIoT/CPS frameworks; Development and implementation of new methods and tools for achieving edge intelligence in IIoT control; Building a specialised demonstrator platform that illustrates the proposed concepts through integration of both proprietary and open hardware/software technologies.
