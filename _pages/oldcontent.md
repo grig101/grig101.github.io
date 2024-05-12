@@ -40,3 +40,15 @@ Old(-er) News
  
  
 * Editor: [Journal of Sensors](https://www.hindawi.com/journals/js/), [International Journal of Computing](http://www.computingonline.net/computing), [Sensors](https://www.mdpi.com/journal/sensors) (MDPI)
+
+* Open information systems for energy management in large commercial buildings
+
+Large commercial buildings offer significant economic and environmental incentives for improved energy management under growing urbanization tendencies in smart cities. Current monitoring and automation systems are mostly closed hardware-software solutions with high associated costs. The objective is to develop a new methodology for integration of open source components in the automation of modern buildings. This will bridge wired and wireless communication protocols such as Modbus, BACNet, ZigBee, hardware interfaces and software libraries, structured data representations and learning algorithms for modelling and control.
+
+* Information extraction and in situ control for distributed systems of sensors and actuators
+
+As the on-board resources of embedded sensing and actuation nodes increase, local extraction of relevant information becomes possible as well as embedded predictive control schemes that use this information. This leads to a flatter automation hierarchy composed of cooperating intelligent periphery and an on-demand cloud layer providing advanced control/optimization as a service. The objective is to develop and validate such approaches in both simulation (MATLAB/Simulink) and small scale pilot deployments (two/three tank system, flexible assembly line).
+
+* Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS
+
+Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
