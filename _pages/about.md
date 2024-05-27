@@ -16,6 +16,7 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
+* [5/24] Appointed [2025-2027 Distinguished Lecturer](https://ieee-ims.org/dlp) of the IEEE Instrumentation and Measurement Society
 * [4/24] Started the [Clean Energy Transition Partnership](https://cetpartnership.eu) project "FIWARE Driven Energy Communities for the Future" (ECom4Future)
 * [3/24] Serving as Industry Liaison Chair for the [2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense 2024)](https://techdefense.org), November 11-13, 2024, Naples, Italy,
 * [2/23] Our tutorial on [Detection and Forecasting of Micro-Scale Variability in Electric Power Profiles](https://i2mtc2023.ieee-ims.org/tutorial-presentations) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 22-25, 2023, Kuala Lumpur, Malaysia
