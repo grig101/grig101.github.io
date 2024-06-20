@@ -16,7 +16,7 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
-* [6/24] Speaking at [Critical Infrastructure Protection \& Resilience Europe 2024](https://www.cipre-expo.com) on "Complementary View on the NIS2 Directive and the Network Code on Cybersecurity: Technology-enabled Best Practices", November 12-14, Madrid, Spain
+* [6/24] Speaking at [Critical Infrastructure Protection and Resilience Europe 2024](https://www.cipre-expo.com) on "Complementary View on the NIS2 Directive and the Network Code on Cybersecurity: Technology-enabled Best Practices", November 12-14, Madrid, Spain
 * [5/24] Appointed [2025-2027 Distinguished Lecturer](https://ieee-ims.org/dlp) of the IEEE Instrumentation and Measurement Society
 * [4/24] Started the [Clean Energy Transition Partnership](https://cetpartnership.eu) project "FIWARE Driven Energy Communities for the Future" (ECom4Future)
 * [3/24] Serving as Industry Liaison Chair for the [2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense 2024)](https://techdefense.org), November 11-13, 2024, Naples, Italy
