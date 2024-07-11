@@ -28,7 +28,7 @@ News
 
 Service
 ------
-* 2024 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://sites.google.com/view/ieee-mass-2024/)
+* 2024 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://sites.google.com/view/ieee-mass-2024/), IEEE SECON
 * 2023 TPCs: [DCOSS-IoT](https://dcoss.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2023/), [IEEE MASS](https://cis.temple.edu/ieeemass2023/index.html), [IDAACS](http://www.idaacs.net/2023), [ICPADS](https://ieee-cybermatics.org/2023/icpads/)
 * 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [IEEE SECON](https://secon2022.ieee-secon.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr), [IEEE MASS](https://sites.google.com/view/ieee-mass-2022), [ICPADS](http://ieee-icpads.net/2022/)
 * Senior member of IEEE and [Romania Section](https://romania.ieeer8.org) secretary; [Robotics and Automation Society](http://www.ieee-ras.org) chapter past-chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
