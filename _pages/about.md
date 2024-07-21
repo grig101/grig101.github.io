@@ -16,6 +16,7 @@ Large scale and distributed sensor systems; Sensor information processing; Stati
 
 News
 ------
+* [7/24] Started the [ERA-NET Smart Energy Systems](https://www.eranet-smartenergysystems.eu/global/images/cms/ERA-NetSES_JC2023_Call_website.pdf) project "Information Fusion of Multi-Vector Real-Time Data Streams for Energy Management in Emerging Power Grids" (INFUSE)
 * [6/24] Speaking at [Critical Infrastructure Protection and Resilience Europe 2024](https://www.cipre-expo.com) on "Complementary View on the NIS2 Directive and the Network Code on Cybersecurity: Technology-enabled Best Practices", November 12-14, Madrid, Spain
 * [5/24] Appointed [2025-2027 Distinguished Lecturer](https://ieee-ims.org/dlp) of the IEEE Instrumentation and Measurement Society
 * [4/24] Started the [Clean Energy Transition Partnership](https://cetpartnership.eu) project "FIWARE Driven Energy Communities for the Future" (ECom4Future)

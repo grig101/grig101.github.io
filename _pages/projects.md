@@ -7,7 +7,9 @@ author_profile: true
 
 Active Projects
 ------
-* FIWARE Driven Energy Communities for the Future (ECom4Future), ERA-NET Clean Energy Transition Partnership (CETP), 2023 - 2026 [Project website](https://projekte.ffg.at/projekt/4828487)
+* Information Fusion of Multi-Vector Real-Time Data Streams for Energy Management in Emerging Power Grids (INFUSE), ERA-NET Smart Energy Systems (SES), Joint Call 2023, 2024 - 2026
+
+* FIWARE Driven Energy Communities for the Future (ECom4Future), ERA-NET Clean Energy Transition Partnership (CETP), 2023 - 2026 [Project website](https://ecom4future.eu)
 
 * rEsilient and seLf-healed EleCTRical pOwer Nanogrid (ELECTRON), Grant No. 101021936, H2020-SU-DS-2020, 2021-2024 [Project website](https://electron-project.eu)
 
