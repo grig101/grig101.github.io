@@ -10,9 +10,13 @@ redirect_from:
 
 Welcome to my research homepage! 
 
-Interests
+AISENSE Lab
 ------
-Large scale and distributed sensor systems; Sensor information processing; Statistical learning and computational intelligence techniques for sensor data; New paradigms: (Industrial-) Internet of Things, Cyber-physical Systems; Sensors in Automation and Control; Applications: industry, energy systems, smart buildings and smart cities.
+The goal of the **Artificial Intelligence for SEnsing, Low-Power Networking and ICS SEcurity (AISENSE)** Laboratory, within the [PRECIS Research Institute](http://precis.upb.ro), is to develop new concepts, methods and experimental prototypes that integrate state-of-the-art ubiquitous sensing, communication and security modalities in intelligent automation applications for industry. Three main research and engineering pillars of our activity thus relate to:
+* Intelligent measurement systems that enhance core sensing functions with on board data processing, learning and inference capabilities for real-time analysis of collected multi-dimensional data streams;
+* Industrial Internet of Things (IIoT) architectures for embedded distributed sensing, computing and low-power scalable communication and their interoperability within open automation architectures for efficiency and productivity;
+* Industrial Control System (ICS) Cybersecurity at the interface of technical means for intrusion detection, prevention and anomaly detection, and standardisation and regulatory approaches for increasing OT robustness and seamless IT/OT integration, with extensive domain expertise.
+We carry out interdisciplinary research at the interface of automation and industrial informatics with domain verticals in manufacturing, energy, utilities and logistics, with a focus social, economic and environmental sustainability and resilience of artificial intelligence systems.
 
 News
 ------
