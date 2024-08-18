@@ -10,7 +10,6 @@ redirect_from:
 
 Welcome to my research homepage! 
 
-AISENSE Lab
 ![AISENSE Laboratory - PRECIS Research Institute - UPB](/images/aisense.png "AISENSE Logo")
 ------
 The goal of the **Artificial Intelligence for SEnsing, Low-Power Networking and ICS SEcurity (AISENSE)** Laboratory, within the [PRECIS Research Institute](http://precis.upb.ro), is to develop new concepts, methods and experimental prototypes that integrate state-of-the-art ubiquitous sensing, communication and security modalities in intelligent automation applications for industry. Three main research and engineering pillars of our activity thus relate to:
