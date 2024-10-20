@@ -5,18 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* Artificial Intelligence Techniques
 
-* Information processing
+Description: The course aims to present and transfer knowledge on the formalization, design, implementation and testing of modern artificial intelligence systems. Theoretical aspects are presented that correspond to the representation of knowledge and the treatment of uncertainty through probabilistic approaches. Bayesian models and networks as well as simple and complex decision algorithms based on Markov processes are discussed. Automatic planning methods based on heuristics and hierarchical planning leading to optimization and efficiency of resource use are classified and compared. Advanced neural network architectures for information encoding are explored: graph-based neural networks, autoencoders, and generative models. Applications of artificial intelligence in high value-added fields such as natural language processing, robotics and artificial vision are presented through representative examples. Aspects relevant to the standardization and regulation of artificial intelligence systems in critical applications are also discussed. Aspects of philosophy, ethics and safety in artificial intelligence also play an important role in the widespread adoption of these solutions, with a significant social and economic impact.
 
-Description: The Information Processing course covers a range of fundamental knowledge on statistics elements, probabilities and data processing, in an engineering context. These include, selectively: statistical indicators, probability distributions, parameter estimation methods and verification of statistical hypotheses and regression methods. Methods for identifying and handling outliers are presented. Rigorous methodologies and best practices for data set processing, classification of data sources and types, including open data sets and public modeling and prediction competitions, preliminary data processing/pre-processing as well as data visualization and presentation techniques towards diverse audiences are discussed. Applications are carried out in interactive Matlab and Python programming environments.
+Keywords: artificial intelligence, decision algorithms, automated planning, ai applications, ai ethics, explainability and safety
 
-Keywords: applied statistics, probability theory, exploratory data analysis, regression methods, outlier handling, data science
-
-* Intelligent measurement systems
+* Intelligent Measurement Systems
 
 Description: The main objective of the Intelligent Measurement Systems course is to present the main design concepts and applications of networked embedded systems in environmental, urban, industry and energy monitoring, as fundamental building blocks of the new Internet of Things (IoT) and Cyberphysical Systems (CPS) concepts. Node-level aspects: sensor selection, energy issues and local data processing, and network-level aspects: wireless communication, localization, mobility, routing and distributed algorithms, are addressed in detail. The social implications of the widespread adoption of these systems are also discussed. Practical simulation applications are developed using the CubCarbon hybrid IoT environment as well as experimental implementations on a dedicated WSN test bed.
 
 Keywords: networked embedded systems, sensors, distributed data processing, wireless sensor networks, internet of things
+
+* Industrial Control Systems Cybersecurity
+
+Description: The course presents the issues of ensuring the cybersecurity of industrial control systems (ICS), exposed to a growing number of cyber threats and vulnerabilities, which can have major consequences in essential sectors for society. The main methodologies, specific terminology and standardized approaches to risk management and the implementation of appropriate technical controls for industrial automation equipment and networks are presented. A comparative analysis is also carried out for the comparative characterization of cyber security for IT/OT systems. Typical Vulnerability Analysis Patterns (CVSS) and Cyber Security Incident Reporting and Information Sharing (MISP) methods are defined. Robust configuration and parameterization methods are discussed using specialized software tools for securing industrial equipment. The current international standardization (ISO27001, IEC62443) and regulatory (Cybersecurity Act, NIS2, Cyber Resilience Act) framework is also discussed, along with the associated technical resources to ensure compliance.
+
+Keywords: ics cybersecurity, ot security, cyber-threat intelligence, misp, standardisation, regulation
 
 * Regelungstechnik (Control Engineering)
 

@@ -52,3 +52,9 @@ As the on-board resources of embedded sensing and actuation nodes increase, loca
 * Convergence of complex information systems and automation systems within new paradigms such as IIoT and CPS
 
 Modern automation systems increasingly leverage advanced information technologies and protocols for data access and exchange, security, visualisation and reporting. These in turn are being adapted to specific application domains in the industry using significant domain expertise. The objective is to identifiy first the key areas of overlap and differentiation and proposed a targeted approach that models this convergence, also known as IT/OT integration. A demonstrator platform will be built based on COTS technologies and components such as industrial development boards for monitoring and control, in order to validate the feasability of the proposed solutions.
+
+* Information processing
+
+Description: The Information Processing course covers a range of fundamental knowledge on statistics elements, probabilities and data processing, in an engineering context. These include, selectively: statistical indicators, probability distributions, parameter estimation methods and verification of statistical hypotheses and regression methods. Methods for identifying and handling outliers are presented. Rigorous methodologies and best practices for data set processing, classification of data sources and types, including open data sets and public modeling and prediction competitions, preliminary data processing/pre-processing as well as data visualization and presentation techniques towards diverse audiences are discussed. Applications are carried out in interactive Matlab and Python programming environments.
+
+Keywords: applied statistics, probability theory, exploratory data analysis, regression methods, outlier handling, data science
