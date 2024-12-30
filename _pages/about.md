@@ -22,6 +22,9 @@ We carry out interdisciplinary research at the interface of automation and indus
 
 News
 ------
+* [1/25] Started the HORIZON-CL5-2024-D2-01 [NOVETROL](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/880988630/project/101192615/program/43108390/details?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified) project "Novel current control for climate neutral energy infrastructure"
+* [12/24] Started the [BOOST-AI](https://camis.pub.ro/boost-ai) "Building Opportunities for SMEs Sustainable Entrepreneurship with Artificial Intelligence in Industry 5.0" Erasmus+ Cooperation Partnerships in Higher Education Project with [Asti Automation](https://astiautomation.com) 
+* [10/24] Speaking at [Bucharest Big Data Week 2024](https://bucharest.bigdataweek.com/session/ai-enhanced-cybersecurity-for-energy-the-electron-platform/) on "AI-Enhanced Cybersecurity for Energy: The ELECTRON Platform", October 16th
 * [7/24] Started the [ERA-NET Smart Energy Systems](https://www.eranet-smartenergysystems.eu/global/images/cms/ERA-NetSES_JC2023_Call_website.pdf) project "Information Fusion of Multi-Vector Real-Time Data Streams for Energy Management in Emerging Power Grids" (INFUSE)
 * [6/24] Speaking at [Critical Infrastructure Protection and Resilience Europe 2024](https://www.cipre-expo.com) on "Complementary View on the NIS2 Directive and the Network Code on Cybersecurity: Technology-enabled Best Practices", November 12-14, Madrid, Spain
 * [5/24] Appointed [2025-2027 Distinguished Lecturer](https://ieee-ims.org/dlp) of the IEEE Instrumentation and Measurement Society
@@ -29,15 +32,12 @@ News
 * [3/24] Serving as Industry Liaison Chair for the [2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense 2024)](https://techdefense.org), November 11-13, 2024, Naples, Italy
 * [2/23] Our tutorial on [Detection and Forecasting of Micro-Scale Variability in Electric Power Profiles](https://i2mtc2023.ieee-ims.org/tutorial-presentations) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 22-25, 2023, Kuala Lumpur, Malaysia
 * [1/23] Appointed corresponding member of the [IEEE Region 8 Membership Development Committee](https://ieeer8.org/category/member-activities/membership-development/)
-* [12/22] Serving as Web and Publicity Chair at the [28th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)](https://2023.ieee-etfa.org), September 12-15, 2023, Sinaia, Romania
-* [10/22] Started the “Bridging Carbon Neutral LNG with the Energy Market – A Novel Ontochain Application” (OTCnLNG) project together with HODLNG and [Applied Research Solutions](https://www.research-solutions.eu) within the [NGI ONTOCHAIN](https://ontochain.ngi.eu) program
-* [2/22] Our tutorial on [Data Preprocessing Techniques for Multiscale Measurements Analytics](https://i2mtc2022.ieee-ims.org/tutorials/) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 16-19, 2022, Ottawa, Canada
 
 Service
 ------
-* 2024 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://sites.google.com/view/ieee-mass-2024/), IEEE SECON
+* 2025 TPCs: [DCOSS-IoT](https://dcoss.org)
+* 2024 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://sites.google.com/view/ieee-mass-2024/), [IEEE SECON](https://secon2024.ieee-secon.org)
 * 2023 TPCs: [DCOSS-IoT](https://dcoss.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2023/), [IEEE MASS](https://cis.temple.edu/ieeemass2023/index.html), [IDAACS](http://www.idaacs.net/2023), [ICPADS](https://ieee-cybermatics.org/2023/icpads/)
-* 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [IEEE SECON](https://secon2022.ieee-secon.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr), [IEEE MASS](https://sites.google.com/view/ieee-mass-2022), [ICPADS](http://ieee-icpads.net/2022/)
 * Senior member of IEEE and [Romania Section](https://romania.ieeer8.org) secretary; [Robotics and Automation Society](http://www.ieee-ras.org) chapter past-chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
 
 PhD Research Topics

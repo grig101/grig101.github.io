@@ -7,6 +7,9 @@ author_profile: true
 
 Old(-er) News
 ------
+* [12/22] Serving as Web and Publicity Chair at the [28th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)](https://2023.ieee-etfa.org), September 12-15, 2023, Sinaia, Romania
+* [10/22] Started the “Bridging Carbon Neutral LNG with the Energy Market – A Novel Ontochain Application” (OTCnLNG) project together with HODLNG and [Applied Research Solutions](https://www.research-solutions.eu) within the [NGI ONTOCHAIN](https://ontochain.ngi.eu) program
+* [2/22] Our tutorial on [Data Preprocessing Techniques for Multiscale Measurements Analytics](https://i2mtc2022.ieee-ims.org/tutorials/) has been accepted for presentation at the International Instrumentation and Measurement Technology Conference - IEEE I2MTC, May 16-19, 2022, Ottawa, Canada
 * [10/21] Started the ["rEsilient and seLf-healed EleCTRical pOwer Nanogrid" (ELECTRON)](https://electron-project.eu) Horizon 2020 research project together with [TUV Austria Romania](https://www.tuv-austria.ro)
 * [9/21] ["Engineer your Future!"](https://www.microderlab.upb.ro/futureengineers/) educational STEM outreach project for high-school seniors, launched with support from the Embassy of the United States of America in Romania, IEEE Romania Section and the University Politehnica of Bucharest
 * [2/21] Elected secretary of the [IEEE Romania Section](https://romania.ieeer8.org)
@@ -35,6 +38,7 @@ Old(-er) News
  * [06/19] [Special Issue on "Advanced Topics in Systems Safety and Security"](https://www.mdpi.com/journal/information/special_issues/IWSSS_2019) - Information
  * [03/19] [Special Stream in Smart Buildings and Smart Cities](http://www.idaacs.net/2019/spec_stream_sbsc) - IDAACS'2019
  
+ * 2022 TPCs: [EWSN](https://ewsn2022.jku.at), [IEEE SECON](https://secon2022.ieee-secon.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2022/), [TA](https://ta22.cran.univ-lorraine.fr), [IEEE MASS](https://sites.google.com/view/ieee-mass-2022), [ICPADS](http://ieee-icpads.net/2022/)
  * 2021 TPCs: [IEEE SECON](https://secon2021.ieee-secon.org/), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2021/), [CESCIT](http://www.uphf.fr/cescit2021), [ECAI](http://www.ecai.ro),  [IDAACS](http://www.idaacs.net/2021), [IEEE MASS](https://eng.auburn.edu/conference/ieee-mass2021/)
  * 2019 TPCs: [IDAACS](http://www.idaacs.net/2019), [IWSSS](https://iwsss.org/2019/), [INTAP](http://jdconline.net/intap/), [ICPADS](http://www.icpads2019.cn), [AICT](http://www.aictec.org), [EAIS](http://www.iaiai.org/conference/aai2019/conference/eais-2019/)
  
