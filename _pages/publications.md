@@ -4,8 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+2025
+------
+Craioveanu M., Stamatescu G., Evaluation of the Robustness-Runtime Efficiency Trade-Off of Edge AI Models in UXO Localisation and Classification, 33rd Mediterranean Conference on Control and Automation, MED 2025, June 10-13, Tangier, Morocco. [PDF](/files/med25_uxo.pdf)
+
+Pavel M.-D., Stamatescu G., Sustainable Manufacturing Application of Embedded Learning Algorithms for Vision-based Defect Detection under the Industry 5.0 Paradigm, 33rd Mediterranean Conference on Control and Automation, MED 2025, June 10-13, Tangier, Morocco. [PDF](/files/med25_i50.pdf)
+
+Stamatescu G., Plamanescu R., Albu M., Online Embedded Analytics for Energy Time Series Pre-Processing in LVDC Microgrids, 7th International Conference on DC Microgrids, ICDCM 2025, June 4-6, Tallin, Estonia. [PDF](/files/icdcm25.pdf)
+
+
 2024
 ------
+Cretu G., Stamatescu I., Stamatescu G., Modeling and Prediction of Occupancy in Buildings Based on Sensor Data Using Deep Learning Methods, IEEE Access, vol. 12, pp. 102994-103003, 2024. [LINK](https://ieeexplore.ieee.org/abstract/document/10606474)
+
 Craioveanu M., Stamatescu G., Detection and Identification of Unexploded Ordnance using a Two-Step Deep Learning Methodology, 32nd Mediterranean Conference on Control and Automation, MED 2024, June 11-14, Chania, Greece. [PDF](/files/med24.pdf)
 
 Pavel M.-D., Stamatescu G., Flexible Manufacturing System for Enhanced Industry 4.0 and Industry 5.0 Applications, 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2024) - 6th International Workshop on IoT Applications and Industry 5.0 (IoTI5), April 28 - May 1, Abu Dhabi, United Arab Emirates. [PDF](/files/dcoss24_1.pdf)
