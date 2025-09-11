@@ -9,6 +9,8 @@ author_profile: true
 ------
 Mitroi D., Nichiforov C., Stamatescu I., Stamatescu G., Analysis of Energy Data Forecasting Performance in Low-Voltage DC Microgrids, 29th International Conference on System Theory, Control and Computing, ICSTCC 2025, October 9-11, Cluj-Napoca, Romania. [PDF](/files/icstcc25.pdf) accepted
 
+Mesca S., Stamatescu G., Intelligent Intrusion Detection System for Cybersecurity of Water Utilities, 24th RoEduNet Conference: Networking in Education and Research, ROEDUNET 2025, September 17-20, Chisinau, Moldova. [PDF](/files/roedu25.pdf) accepted
+
 Craioveanu M., Stamatescu G., Popescu D., Ensemble Strategy With Multi-Step Hard Sample Mining for Improved UXO Localisation and Classification, IEEE Access, vol. 13, pp. 123546 - 123558, 2025. [LINK](https://ieeexplore.ieee.org/abstract/document/11078286)
 
 Craioveanu M., Stamatescu G., Evaluation of the Robustness-Runtime Efficiency Trade-Off of Edge AI Models in UXO Localisation and Classification, 33rd Mediterranean Conference on Control and Automation, MED 2025, June 10-13, Tangier, Morocco. [PDF](/files/med25_uxo.pdf)
