@@ -7,9 +7,11 @@ author_profile: true
 
 2025
 ------
-Mitroi D., Nichiforov C., Stamatescu I., Stamatescu G., Analysis of Energy Data Forecasting Performance in Low-Voltage DC Microgrids, 29th International Conference on System Theory, Control and Computing, ICSTCC 2025, October 9-11, Cluj-Napoca, Romania. [PDF](/files/icstcc25.pdf) accepted
+Mitroi D., Stamatescu G., Plamanescu R., Albu M., Co-simulation of Shortcircuit Current Measurement in LVDC Systems, 9th International Symposium on Electrical and Electronics Engineering, ISEEE 2025, October 30 - November 1, Galati, Romania. [PDF](/files/iseee25.pdf)
 
-Mesca S., Stamatescu G., Intelligent Intrusion Detection System for Cybersecurity of Water Utilities, 24th RoEduNet Conference: Networking in Education and Research, ROEDUNET 2025, September 17-20, Chisinau, Moldova. [PDF](/files/roedu25.pdf) accepted
+Mitroi D., Nichiforov C., Stamatescu I., Stamatescu G., Analysis of Energy Data Forecasting Performance in Low-Voltage DC Microgrids, 29th International Conference on System Theory, Control and Computing, ICSTCC 2025, October 9-11, Cluj-Napoca, Romania. [PDF](/files/icstcc25.pdf)
+
+Mesca S., Stamatescu G., Intelligent Intrusion Detection System for Cybersecurity of Water Utilities, 24th RoEduNet Conference: Networking in Education and Research, ROEDUNET 2025, September 17-20, Chisinau, Moldova. [PDF](/files/roedu25.pdf)
 
 Craioveanu M., Stamatescu G., Popescu D., Ensemble Strategy With Multi-Step Hard Sample Mining for Improved UXO Localisation and Classification, IEEE Access, vol. 13, pp. 123546 - 123558, 2025. [LINK](https://ieeexplore.ieee.org/abstract/document/11078286)
 
