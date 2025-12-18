@@ -13,6 +13,8 @@ Mitroi D., Nichiforov C., Stamatescu I., Stamatescu G., Analysis of Energy Data 
 
 Mesca S., Stamatescu G., Intelligent Intrusion Detection System for Cybersecurity of Water Utilities, 24th RoEduNet Conference: Networking in Education and Research, ROEDUNET 2025, September 17-20, Chisinau, Moldova. [PDF](/files/roedu25.pdf)
 
+Iqdymat A., Stamatescu G., Sim-to-Sim Control of a UR3e Robot Using Soft Actor-Critic and Real-Time MATLAB–ROS–URSim Integration, 13th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS 2025, September 4-6, Gliwice, Poland. [PDF](/files/idaacs25.pdf)
+
 Craioveanu M., Stamatescu G., Popescu D., Ensemble Strategy With Multi-Step Hard Sample Mining for Improved UXO Localisation and Classification, IEEE Access, vol. 13, pp. 123546 - 123558, 2025. [LINK](https://ieeexplore.ieee.org/abstract/document/11078286)
 
 Craioveanu M., Stamatescu G., Evaluation of the Robustness-Runtime Efficiency Trade-Off of Edge AI Models in UXO Localisation and Classification, 33rd Mediterranean Conference on Control and Automation, MED 2025, June 10-13, Tangier, Morocco. [PDF](/files/med25_uxo.pdf)
