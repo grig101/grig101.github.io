@@ -22,6 +22,8 @@ We carry out interdisciplinary research at the interface of automation and indus
 
 News
 ------
+* [1/26] Began serving as [IEEE Romania Section](https://romania.ieeer8.org) Chair
+* [1/26] Started the [COBOTSVETMED](https://www.cobotsvetmed.eu) "Collaborative Robots Vocational Training in Algeria and Tunisia " Erasmus+ Capacity building in the field of Vocational Education and Training Project with [Asti Automation](https://astiautomation.com) 
 * [1/25] Started the HORIZON-CL5-2024-D2-01 [NOVETROL](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/880988630/project/101192615/program/43108390/details?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified) project "Novel current control for climate neutral energy infrastructure"
 * [12/24] Started the [BOOST-AI](https://camis.pub.ro/boost-ai) "Building Opportunities for SMEs Sustainable Entrepreneurship with Artificial Intelligence in Industry 5.0" Erasmus+ Cooperation Partnerships in Higher Education Project with [Asti Automation](https://astiautomation.com) 
 * [10/24] Speaking at [Bucharest Big Data Week 2024](https://bucharest.bigdataweek.com/session/ai-enhanced-cybersecurity-for-energy-the-electron-platform/) on "AI-Enhanced Cybersecurity for Energy: The ELECTRON Platform", October 16th
@@ -35,10 +37,11 @@ News
 
 Service
 ------
+* 2026 TPCs: [DCOSS-IoT](https://dcoss.org)
 * 2025 TPCs: [DCOSS-IoT](https://dcoss.org)
 * 2024 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://sites.google.com/view/ieee-mass-2024/), [IEEE SECON](https://secon2024.ieee-secon.org)
 * 2023 TPCs: [DCOSS-IoT](https://dcoss.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2023/), [IEEE MASS](https://cis.temple.edu/ieeemass2023/index.html), [IDAACS](http://www.idaacs.net/2023), [ICPADS](https://ieee-cybermatics.org/2023/icpads/)
-* Senior member of IEEE and [Romania Section](https://romania.ieeer8.org) secretary; [Robotics and Automation Society](http://www.ieee-ras.org) chapter past-chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org)
+* Senior member of IEEE; [Robotics and Automation Society](http://www.ieee-ras.org) chapter past-chair; Member of IEEE RAS [Technical Committee on Smart Buildings](https://www.ieee-ras.org/smart-building); Member of IEEE IES [Technical Committee on Industrial Agents](https://tcia.ieee-ies.org); Corresponding member of the IEEE Region 8 Membership Development Committee [R8MDC](https://ieeer8.org/category/member-activities/membership-development/).
 
 PhD Research Topics
 ------

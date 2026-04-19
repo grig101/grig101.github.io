@@ -15,6 +15,8 @@ Active Projects
 
 * Building Opportunities for SMEs Sustainable Entrepreneurship with Artificial Intelligence in Industry 5.0 (BOOST-AI), Erasmus+ Cooperation Partnerships in Higher Education, 2024-2026 [Project website](https://camis.pub.ro/boost-ai)
 
+* [COBOTSVETMED](https://www.cobotsvetmed.eu) "Collaborative Robots Vocational Training in Algeria and Tunisia" Erasmus+ Capacity building in the field of Vocational Education and Training, 2026-2027 
+
 
 Finalised Projects
 ------

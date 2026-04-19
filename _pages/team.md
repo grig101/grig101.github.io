@@ -15,6 +15,4 @@ author_profile: true
 
 * [Marian Craioveanu](https://scholar.google.com/citations?user=kZceQ2MAAAAJ)
 
-* [Sabin Rosioru](https://scholar.google.com/citations?hl=ro&user=NioGk3cAAAAJ)
-
 * [Daniel Catalin Mitroi](https://ro.linkedin.com/in/catalin-mitroi)
