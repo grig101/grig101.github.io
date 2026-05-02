@@ -7,7 +7,7 @@ author_profile: true
 2026
 ------
 
-Mitroi D., Stamatescu G., Plamanescu R., Albu M., Safe Storage at Home: A Co-Simulation Approach for Short Circuit Current Characterisation, 2026 IEEE 8th International Conference on DC Microgrids, ICDCM 2026, June 12-14, XiAn, China. accepted
+Mitroi D., Stamatescu G., Plamanescu R., Albu M., Safe Storage at Home: A Co-Simulation Approach for Short Circuit Current Characterisation, 2026 IEEE 8th International Conference on DC Microgrids, ICDCM 2026, June 12-14, XiAn, China. [PDF](/files/icdcm26.pdf) accepted
 
 Craioveanu M., Stamatescu G., Saukh O., Look, Reason, Defuse: Bridging Perception and Domain Knowledge for Real-World Unexploded Ordnance Identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, AI4RWC: The 2nd International Workshop on Vision Intelligence for Real-world Challenges, June 3-7, Denver, USA. [PDF](/files/cvpr26ai4rwc.pdf) accepted
 

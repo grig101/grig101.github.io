@@ -22,6 +22,7 @@ We carry out interdisciplinary research at the interface of automation and indus
 
 News
 ------
+* [5/26] Elevated to [Association of Computing Machiery (ACM)](https://www.acm.org/) Senior Member
 * [1/26] Began serving as [IEEE Romania Section](https://romania.ieeer8.org) Chair
 * [1/26] Started the [COBOTSVETMED](https://www.cobotsvetmed.eu) "Collaborative Robots Vocational Training in Algeria and Tunisia " Erasmus+ Capacity building in the field of Vocational Education and Training Project with [Asti Automation](https://astiautomation.com) 
 * [1/25] Started the HORIZON-CL5-2024-D2-01 [NOVETROL](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/880988630/project/101192615/program/43108390/details?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified) project "Novel current control for climate neutral energy infrastructure"
@@ -37,7 +38,7 @@ News
 
 Service
 ------
-* 2026 TPCs: [DCOSS-IoT](https://dcoss.org)
+* 2026 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://mass-conf.github.io/2026)
 * 2025 TPCs: [DCOSS-IoT](https://dcoss.org)
 * 2024 TPCs: [DCOSS-IoT](https://dcoss.org), [IEEE MASS](https://sites.google.com/view/ieee-mass-2024/), [IEEE SECON](https://secon2024.ieee-secon.org)
 * 2023 TPCs: [DCOSS-IoT](https://dcoss.org), [CPS-IoTBench](https://www.iotbench.ethz.ch/cps-iotbench-2023/), [IEEE MASS](https://cis.temple.edu/ieeemass2023/index.html), [IDAACS](http://www.idaacs.net/2023), [ICPADS](https://ieee-cybermatics.org/2023/icpads/)
