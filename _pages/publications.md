@@ -7,11 +7,13 @@ author_profile: true
 2026
 ------
 
+Pavel M.-D., De Marchi M., Stamatescu G., Edge-Cloud Offloading for Real-Time Perception of Resource-Constrained AMR in IIoT Environments, 8th International Workshop on IoT Applications and Industry 5.0, International Conference on Distributed Computing in Smart Systems and the Internet of Things, DCOSS-IOT 2026, June 22-24, Rejkjavik, Iceland. [PDF](/files/dcoss26_ioti5.pdf) accepted
+
 Mitroi D., Stamatescu G., Plamanescu R., Albu M., Safe Storage at Home: A Co-Simulation Approach for Short Circuit Current Characterisation, 2026 IEEE 8th International Conference on DC Microgrids, ICDCM 2026, June 12-14, XiAn, China. [PDF](/files/icdcm26.pdf) accepted
 
 Craioveanu M., Stamatescu G., Saukh O., Look, Reason, Defuse: Bridging Perception and Domain Knowledge for Real-World Unexploded Ordnance Identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, AI4RWC: The 2nd International Workshop on Vision Intelligence for Real-world Challenges, June 3-7, Denver, USA. [PDF](/files/cvpr26ai4rwc.pdf) accepted
 
-Ene T., Stamatescu G., Development of a Decision Support System for Building Energy Management, IEEE International Conference on Automation, Quality and Testing, Robotics, AQTR 2026, May 21-23, Baile Felix, Romania. [PDF](/files/aqtr26.pdf) accepted
+Ene T., Stamatescu G., Development of a Decision Support System for Building Energy Management, IEEE International Conference on Automation, Quality and Testing, Robotics, AQTR 2026, May 21-23, Baile Felix, Romania. [PDF](/files/aqtr26.pdf)
 
 Pavel, M.-D.; Stamatescu, G.; Chodnicki, M.; Amza, C.G. LLM-Enhanced Control of a Mobile Robotic Platform for Smart Industry. Appl. Sci. 2026, 16, 1680. [LINK](https://www.mdpi.com/2076-3417/16/4/1680)
 
