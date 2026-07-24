@@ -7,11 +7,13 @@ author_profile: true
 2026
 ------
 
-Pavel M.-D., De Marchi M., Stamatescu G., Edge-Cloud Offloading for Real-Time Perception of Resource-Constrained AMR in IIoT Environments, 8th International Workshop on IoT Applications and Industry 5.0, International Conference on Distributed Computing in Smart Systems and the Internet of Things, DCOSS-IOT 2026, June 22-24, Rejkjavik, Iceland. [PDF](/files/dcoss26_ioti5.pdf) accepted
+Craioveanu M., Stamatescu G., Decoding UXO Visual Signatures: A Comparative Study of Feature Extraction and Classifiers, 30th International Conference on System Theory, Control and Computing, ICSTCC 2026, October 21-24, Iasi, Romania. [PDF](/files/icstcc26_uxo.pdf) accepted
 
-Mitroi D., Stamatescu G., Plamanescu R., Albu M., Safe Storage at Home: A Co-Simulation Approach for Short Circuit Current Characterisation, 2026 IEEE 8th International Conference on DC Microgrids, ICDCM 2026, June 12-14, XiAn, China. [PDF](/files/icdcm26.pdf) accepted
+Pavel M.-D., De Marchi M., Stamatescu G., Edge-Cloud Offloading for Real-Time Perception of Resource-Constrained AMR in IIoT Environments, 8th International Workshop on IoT Applications and Industry 5.0, International Conference on Distributed Computing in Smart Systems and the Internet of Things, DCOSS-IOT 2026, June 22-24, Rejkjavik, Iceland. [PDF](/files/dcoss26_ioti5.pdf)
 
-Craioveanu M., Stamatescu G., Saukh O., Look, Reason, Defuse: Bridging Perception and Domain Knowledge for Real-World Unexploded Ordnance Identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, AI4RWC: The 2nd International Workshop on Vision Intelligence for Real-world Challenges, June 3-7, Denver, USA. [PDF](/files/cvpr26ai4rwc.pdf) accepted
+Mitroi D., Stamatescu G., Plamanescu R., Albu M., Safe Storage at Home: A Co-Simulation Approach for Short Circuit Current Characterisation, 2026 IEEE 8th International Conference on DC Microgrids, ICDCM 2026, June 12-14, XiAn, China. [PDF](/files/icdcm26.pdf)
+
+Craioveanu M., Stamatescu G., Saukh O., Look, Reason, Defuse: Bridging Perception and Domain Knowledge for Real-World Unexploded Ordnance Identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, AI4RWC: The 2nd International Workshop on Vision Intelligence for Real-world Challenges, June 3-7, Denver, USA. [PDF](/files/cvpr26ai4rwc.pdf)
 
 Ene T., Stamatescu G., Development of a Decision Support System for Building Energy Management, IEEE International Conference on Automation, Quality and Testing, Robotics, AQTR 2026, May 21-23, Baile Felix, Romania. [PDF](/files/aqtr26.pdf)
 
