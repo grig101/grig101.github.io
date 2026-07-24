@@ -6,6 +6,7 @@ author_profile: true
 ---
 2026
 ------
+Pletea-Marinescu V., Pavel M.-D., Stamatescu G., AI4WINE: A Generative Machine Learning Benchmark for Wine Quality Classification, 30th International Conference on System Theory, Control and Computing, ICSTCC 2026, October 21-24, Iasi, Romania. [PDF](/files/icstcc26_wine.pdf) accepted
 
 Craioveanu M., Stamatescu G., Decoding UXO Visual Signatures: A Comparative Study of Feature Extraction and Classifiers, 30th International Conference on System Theory, Control and Computing, ICSTCC 2026, October 21-24, Iasi, Romania. [PDF](/files/icstcc26_uxo.pdf) accepted
 
