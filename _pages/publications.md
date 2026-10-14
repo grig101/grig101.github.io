@@ -12,6 +12,8 @@ Pletea-Marinescu V., Pavel M.-D., Stamatescu G., AI4WINE: A Generative Machine L
 
 Craioveanu M., Stamatescu G., Decoding UXO Visual Signatures: A Comparative Study of Feature Extraction and Classifiers, 30th International Conference on System Theory, Control and Computing, ICSTCC 2026, October 21-24, Iasi, Romania. [PDF](/files/icstcc26_uxo.pdf) accepted
 
+Craioveanu M., Stamatescu G., From Manual to Real-World: Deep Unfolded Neural Network for Cross-Domain UXO Retrieval, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML PKDD 2026, September 7-11, Naples, Italy. [PDF](/files/ecmlpkdd26.pdf)
+
 Pavel M.-D., De Marchi M., Stamatescu G., Edge-Cloud Offloading for Real-Time Perception of Resource-Constrained AMR in IIoT Environments, 8th International Workshop on IoT Applications and Industry 5.0, International Conference on Distributed Computing in Smart Systems and the Internet of Things, DCOSS-IOT 2026, June 22-24, Rejkjavik, Iceland. [PDF](/files/dcoss26_ioti5.pdf)
 
 Mitroi D., Stamatescu G., Plamanescu R., Albu M., Safe Storage at Home: A Co-Simulation Approach for Short Circuit Current Characterisation, 2026 IEEE 8th International Conference on DC Microgrids, ICDCM 2026, June 12-14, XiAn, China. [PDF](/files/icdcm26.pdf)
